@@ -1,11 +1,7 @@
 INTRODUCTION
-
 ACCOUNT DATA
-
 CREATE YOUR OWN CURRENCY/VIRTUAL ASSET
-
 DISCLAIMER
-
 INTRODUCTION
 
 The GIT is a crypto share (IOU token) in the Ripple.com system.
