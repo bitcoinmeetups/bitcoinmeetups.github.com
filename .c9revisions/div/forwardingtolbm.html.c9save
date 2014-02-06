@@ -1,0 +1,3 @@
+{"ts":1391660929616,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1391660956958,"patch":[[{"diffs":[[1,"<meta http-equiv=\"refresh\" content=\"0; url=http://example.com/\">"]],"start1":0,"start2":0,"length1":0,"length2":64}]],"length":64,"saved":false}
+{"ts":1391660976764,"patch":[[{"diffs":[[0,"http"],[1,"s"],[0,"://"],[-1,"example.com/"],[1,"github.com/Entrances/entrances.github.com/wiki/Local-Bitcoin-Meetups"],[0,"\">"]],"start1":43,"start2":43,"length1":21,"length2":78}]],"length":121,"saved":false}
