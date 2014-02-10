@@ -1,0 +1,39 @@
+body
+
+{
+background-color:#F5F5F5;
+font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
+font-size:150%;
+color:#6C6C6C;
+}
+
+table 
+
+{
+	
+	border-collapse: collapse; 
+	border-style:solid; 
+	border-width: 3px; 
+	border-color:#666666; 
+	font-size:75%;
+	width:100%; 
+	margin: 0 auto;
+	
+	}
+
+td
+
+{padding: 3px; 
+border-style:solid;
+border-width:1px; 
+border-color:#666666; 
+}
+
+tr:nth-child(even) 
+{
+  background: #FFFFFF;
+}
+
+tr:nth-child(odd) {
+   background: #FFFFFF;
+}
