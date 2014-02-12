@@ -1,242 +1,182 @@
 [
   {
-    "Location: Bagdad ":"Location: Bangkok ",
-    " Region: Middle East ":" Region: South East Asia ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Bangkok Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVxhHPKLJSgVTHhjAbByS6rBVqAyE7UvM",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Bagdad ",
+    "FIELD2":" Region: Middle East ",
+    "FIELD3":" Name: Bagdad Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m"
   },
   {
-    "Location: Bagdad ":"Location: Bangalore ",
-    " Region: Middle East ":" Region: South Asia ",
-    " Name: Bagdad Bitcoin Meetups ":"  Name: Bangalore Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" BM-2cVbbZUm9KNFpeiUvUQksHxbKozA3XRAr7",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Bangalore ",
+    "FIELD2":" Region: South Asia ",
+    "FIELD3":"  Name: Bangalore Bitcoin Meetups ",
+    "FIELD4":" BM-2cVbbZUm9KNFpeiUvUQksHxbKozA3XRAr7"
   },
   {
-    "Location: Bagdad ":"Location: Beijing ",
-    " Region: Middle East ":" Region: East Asia ",
-    " Name: Bagdad Bitcoin Meetups ":"  Name: Beijing Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":"  Bitmessage address: BM-2cUEHUBSc9sCPDQ7Xb7L623uD4bCDkGDsM",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Beijing ",
+    "FIELD2":" Region: East Asia ",
+    "FIELD3":"  Name: Beijing Bitcoin Meetups ",
+    "FIELD4":"  Bitmessage address: BM-2cUEHUBSc9sCPDQ7Xb7L623uD4bCDkGDsM"
   },
   {
-    "Location: Bagdad ":"Location: Berlin ",
-    " Region: Middle East ":" Region: Central Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Berlin Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cV1QDoPsDJQEgsquF29P8XehwF8424zgA",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Berlin ",
+    "FIELD2":" Region: Central Europe ",
+    "FIELD3":" Name: Berlin Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cV1QDoPsDJQEgsquF29P8XehwF8424zgA"
   },
   {
-    "Location: Bagdad ":"Location: Buenos Aires ",
-    " Region: Middle East ":" Region: South America ",
-    " Name: Bagdad Bitcoin Meetups ":" Buenos Aires Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":"(Godoy Cruz 1725, Buenos Aires) - Every Friday ",
-    "FIELD5":" Bitmessage address: BM-2cWAu1ZDxMza4JyRpYYLpNV58ErvdV1usy",
-    "FIELD6":""
+    "FIELD1":"Location: Buenos Aires ",
+    "FIELD2":" Region: South America ",
+    "FIELD3":" Buenos Aires Bitcoin Meetups ",
+    "FIELD4":"(Godoy Cruz 1725, Buenos Aires) - Every Friday "
   },
   {
-    "Location: Bagdad ":"Location: Jakarta ",
-    " Region: Middle East ":" Region: South East Asia ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Jakarta Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage Address: Bitmessage address: BM-2cXCuSc9gma6r89LUGGCStzAUp9TmW3xRS",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Jakarta ",
+    "FIELD2":" Region: South East Asia ",
+    "FIELD3":" Name: Jakarta Bitcoin Meetups ",
+    "FIELD4":" Bitmessage Address: Bitmessage address: BM-2cXCuSc9gma6r89LUGGCStzAUp9TmW3xRS"
   },
   {
-    "Location: Bagdad ":"Location: Johannesburg ",
-    " Region: Middle East ":" Region: South Africa ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Johannesburg Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cWNDRMj5pER95v8HQf5at6kNnrjvvbkSC",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Johannesburg ",
+    "FIELD2":" Region: South Africa ",
+    "FIELD3":" Name: Johannesburg Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cWNDRMj5pER95v8HQf5at6kNnrjvvbkSC"
   },
   {
-    "Location: Bagdad ":"Location: Lagos ",
-    " Region: Middle East ":" Region: Central Africa ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Lagos Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVRnD7mgtH9q3KeC6cAAk7DLoyPAaooeX",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Lagos ",
+    "FIELD2":" Region: Central Africa ",
+    "FIELD3":" Name: Lagos Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVRnD7mgtH9q3KeC6cAAk7DLoyPAaooeX"
   },
   {
-    "Location: Bagdad ":"Location: London ",
-    " Region: Middle East ":" Region: Northern Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Address: Bishops Square - Bushfield Street ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Date and time: Saturdays 1 PM ",
-    "FIELD5":" Name: London Bitcoin Meetups ",
-    "FIELD6":" Bitmessage address: BM-2cX8QJdNyKJX569Pv4idgPM6dKEYjxSYYq"
+    "FIELD1":"Location: London ",
+    "FIELD2":" Region: Northern Europe ",
+    "FIELD3":" Address: Bishops Square - Bushfield Street ",
+    "FIELD4":" Date and time: Saturdays 1 PM "
   },
   {
-    "Location: Bagdad ":"Location: Los Angeles ",
-    " Region: Middle East ":" Region: North America ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Los Angeles Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: Bitmessage address: BM-2cXPQoeVEaq2rN2NEi9w8kTCaDwsBjP1pb",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Los Angeles ",
+    "FIELD2":" Region: North America ",
+    "FIELD3":" Name: Los Angeles Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: Bitmessage address: BM-2cXPQoeVEaq2rN2NEi9w8kTCaDwsBjP1pb"
   },
   {
-    "Location: Bagdad ":"Location: Montreal ",
-    " Region: Middle East ":" Region: North America ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Montreal Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: Bitmessage address: BM-2cWsUWwehYWQFqAoRAjaTfe3xK9hmtZEu5",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Montreal ",
+    "FIELD2":" Region: North America ",
+    "FIELD3":" Name: Montreal Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: Bitmessage address: BM-2cWsUWwehYWQFqAoRAjaTfe3xK9hmtZEu5"
   },
   {
-    "Location: Bagdad ":"Location: Melbourne ",
-    " Region: Middle East ":" Region: Australia ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Melbourne Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cT9wVr9rhzmCLxqgmFbHxyrbE5oMTa2VP",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Melbourne ",
+    "FIELD2":" Region: Australia ",
+    "FIELD3":" Name: Melbourne Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cT9wVr9rhzmCLxqgmFbHxyrbE5oMTa2VP"
   },
   {
-    "Location: Bagdad ":"Location: Moscow ",
-    " Region: Middle East ":" Region: Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Moscow Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVBwTGfGyBt8Wmkj4e7fH719jCKDv9i7i",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Moscow ",
+    "FIELD2":" Region: Europe ",
+    "FIELD3":" Name: Moscow Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVBwTGfGyBt8Wmkj4e7fH719jCKDv9i7i"
   },
   {
-    "Location: Bagdad ":"Location: Nairobi ",
-    " Region: Middle East ":" Region: East Africa ",
-    " Name: Bagdad Bitcoin Meetups ":" Nairobi Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":"Bitmessage address: BM-2cThfobcD14iwjyPxEXFgn1Qe4ajDYc9TL",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Nairobi ",
+    "FIELD2":" Region: East Africa ",
+    "FIELD3":" Nairobi Bitcoin Meetups ",
+    "FIELD4":"Bitmessage address: BM-2cThfobcD14iwjyPxEXFgn1Qe4ajDYc9TL"
   },
   {
-    "Location: Bagdad ":"Location: New Delhi ",
-    " Region: Middle East ":" Region: South Asia ",
-    " Name: Bagdad Bitcoin Meetups ":" New Delhi Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cWTiu2w7wu9G7VLZeGz82uGhEHZjWPwTP",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: New Delhi ",
+    "FIELD2":" Region: South Asia ",
+    "FIELD3":" New Delhi Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cWTiu2w7wu9G7VLZeGz82uGhEHZjWPwTP"
   },
   {
-    "Location: Bagdad ":"Location: New York ",
-    " Region: Middle East ":" Region: North America ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: New York Satoshi Square - Union Square Park Date and Time: 1 PM - Every Saturday ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cXYPmDA8kUFKZWLFdmn5ZRiqAdFzXxd2Q",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: New York ",
+    "FIELD2":" Region: North America ",
+    "FIELD3":" Name: New York Satoshi Square - Union Square Park Date and Time: 1 PM - Every Saturday ",
+    "FIELD4":" Bitmessage address: BM-2cXYPmDA8kUFKZWLFdmn5ZRiqAdFzXxd2Q"
   },
   {
-    "Location: Bagdad ":"Location: Paris ",
-    " Region: Middle East ":" Region: Central Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Paris Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cXBwiN2ge1PEfEyVX2ZYePqxDBp1NoZkm",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Paris ",
+    "FIELD2":" Region: Central Europe ",
+    "FIELD3":" Paris Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cXBwiN2ge1PEfEyVX2ZYePqxDBp1NoZkm"
   },
   {
-    "Location: Bagdad ":"Location: Rio De Janeiro ",
-    " Region: Middle East ":" Region: South America ",
-    " Name: Bagdad Bitcoin Meetups ":" Rio De Janeiro Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cXbQeFGqSno4sC1aY2P7a8LLWMjh4i8Ko",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Rio De Janeiro ",
+    "FIELD2":" Region: South America ",
+    "FIELD3":" Rio De Janeiro Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cXbQeFGqSno4sC1aY2P7a8LLWMjh4i8Ko"
   },
   {
-    "Location: Bagdad ":"Location: Saint Petersburg ",
-    " Region: Middle East ":" Region: Northern Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Saint Petersburg Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cULWixNP52hFY57qmPSjpXbQ3kxQZ3gHC",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Saint Petersburg ",
+    "FIELD2":" Region: Northern Europe ",
+    "FIELD3":" Saint Petersburg Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cULWixNP52hFY57qmPSjpXbQ3kxQZ3gHC"
   },
   {
-    "Location: Bagdad ":"Location: Sao Paulo ",
-    " Region: Middle East ":" Region: South America ",
-    " Name: Bagdad Bitcoin Meetups ":" Sao Paulo Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVMHCEm2jrSzMUbTWVPWp5LiWaVDLbnNv",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Sao Paulo ",
+    "FIELD2":" Region: South America ",
+    "FIELD3":" Sao Paulo Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVMHCEm2jrSzMUbTWVPWp5LiWaVDLbnNv"
   },
   {
-    "Location: Bagdad ":"Location: Seattle ",
-    " Region: Middle East ":" Region: North America ",
-    " Name: Bagdad Bitcoin Meetups ":" Seattle Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cTm9BgGNejSPVut4A7w2FhphqzMnVDeuT",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Seattle ",
+    "FIELD2":" Region: North America ",
+    "FIELD3":" Seattle Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cTm9BgGNejSPVut4A7w2FhphqzMnVDeuT"
   },
   {
-    "Location: Bagdad ":"Location: Shanghai ",
-    " Region: Middle East ":" Region: East Asia ",
-    " Name: Bagdad Bitcoin Meetups ":" Shanghai Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cXhvkfN8kpeKx39FY4d2VXwwhDzDSBhKX",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Shanghai ",
+    "FIELD2":" Region: East Asia ",
+    "FIELD3":" Shanghai Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cXhvkfN8kpeKx39FY4d2VXwwhDzDSBhKX"
   },
   {
-    "Location: Bagdad ":"Location: Singapore ",
-    " Region: Middle East ":" Region: South East Asia ",
-    " Name: Bagdad Bitcoin Meetups ":" Singapore Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVaoJF3rmP6L6h7nUYX5nAzBFuuMFMspV",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Singapore ",
+    "FIELD2":" Region: South East Asia ",
+    "FIELD3":" Singapore Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVaoJF3rmP6L6h7nUYX5nAzBFuuMFMspV"
   },
   {
-    "Location: Bagdad ":"Location: Stockholm ",
-    " Region: Middle East ":" Region: Northern Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Stockholm Satoshi Square - Stockholm - 5 PM - Every Monday ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cTiB21VHw17V5oZeJZ8f6c9FH9FAWdobP",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Stockholm ",
+    "FIELD2":" Region: Northern Europe ",
+    "FIELD3":" Stockholm Satoshi Square - Stockholm - 5 PM - Every Monday ",
+    "FIELD4":" Bitmessage address: BM-2cTiB21VHw17V5oZeJZ8f6c9FH9FAWdobP"
   },
   {
-    "Location: Bagdad ":"Location: Sydney ",
-    " Region: Middle East ":" Region: Australia ",
-    " Name: Bagdad Bitcoin Meetups ":" Sydney Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVqT9iMyYBi5F2HAYCWwYnkNpvY4cJTGF",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Sydney ",
+    "FIELD2":" Region: Australia ",
+    "FIELD3":" Sydney Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVqT9iMyYBi5F2HAYCWwYnkNpvY4cJTGF"
   },
   {
-    "Location: Bagdad ":"Location: Teheran ",
-    " Region: Middle East ":" Region: Middle East ",
-    " Name: Bagdad Bitcoin Meetups ":" Teheran Bitcoin Meetups ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Bitmessage address: BM-2cVLbtFwK9gjorUo36S9SaZcKn3yd4na8F",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Teheran ",
+    "FIELD2":" Region: Middle East ",
+    "FIELD3":" Teheran Bitcoin Meetups ",
+    "FIELD4":" Bitmessage address: BM-2cVLbtFwK9gjorUo36S9SaZcKn3yd4na8F"
   },
   {
-    "Location: Bagdad ":"Location: Tokyo ",
-    " Region: Middle East ":" Region: East Asia ",
-    " Name: Bagdad Bitcoin Meetups ":" Address: At The Nishimura Fruit Parlor (Shibuya-ku Udagawacho 22-2 2F, Tokyo)",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":"",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Tokyo ",
+    "FIELD2":" Region: East Asia ",
+    "FIELD3":" Address: At The Nishimura Fruit Parlor (Shibuya-ku Udagawacho 22-2 2F, Tokyo)",
+    "FIELD4":""
   },
   {
-    "Location: Bagdad ":"Tokyo Bitcoin Meetup Group ",
-    " Region: Middle East ":" Date and Time: Every Saturday 7:30 PM ",
-    " Name: Bagdad Bitcoin Meetups ":" Bitmessage address: BM-2cXsrG7tDqzgGXHnYd6jbfa6oLREYYSMdP",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":"",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Tokyo Bitcoin Meetup Group ",
+    "FIELD2":" Date and Time: Every Saturday 7:30 PM ",
+    "FIELD3":" Bitmessage address: BM-2cXsrG7tDqzgGXHnYd6jbfa6oLREYYSMdP",
+    "FIELD4":""
   },
   {
-    "Location: Bagdad ":"Location: Toronto ",
-    " Region: Middle East ":" Region: North America ",
-    " Name: Bagdad Bitcoin Meetups ":" Name: Toronto Bitcoin Meetups -  ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Date and Time: The Charlotte Room (19 Charlotte St, Toronto - 7 PM - Every Thursday - BM TBA",
-    "FIELD5":"",
-    "FIELD6":""
+    "FIELD1":"Location: Toronto ",
+    "FIELD2":" Region: North America ",
+    "FIELD3":" Name: Toronto Bitcoin Meetups -  ",
+    "FIELD4":" Date and Time: The Charlotte Room (19 Charlotte St, Toronto - 7 PM - Every Thursday - BM TBA"
   },
   {
-    "Location: Bagdad ":"Location: Zurich ",
-    " Region: Middle East ":" Region: Central Europe ",
-    " Name: Bagdad Bitcoin Meetups ":" Zurich Bitcoin Meetups - Kasernenstrasse 77, Zurich ",
-    " Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m":" Every Friday ",
-    "FIELD5":" BM TBA",
-    "FIELD6":""
+    "FIELD1":"Location: Zurich ",
+    "FIELD2":" Region: Central Europe ",
+    "FIELD3":" Zurich Bitcoin Meetups - Kasernenstrasse 77, Zurich ",
+    "FIELD4":" Every Friday "
   }
 ]
