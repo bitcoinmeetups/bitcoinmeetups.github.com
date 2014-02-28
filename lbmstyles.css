@@ -58,11 +58,13 @@ a.ex1:visited,a.ex1:active {color:#333;}
 
 
 table.altrowstable {
-	font-family: verdana,arial,sans-serif;
-	font-size:11px;
-	color:#333333;
+
+font-family:"Arial", Helvetica, Arial, sans-serif;
+font-size:80%;
+font-style:strong;
+	color:#555;
 	border-width: 1px;
-	border-	color: #a9c6c9;
+	border-color: #a9c6c9;
 	border-collapse: collapse;
 }
 table.altrowstable th {
