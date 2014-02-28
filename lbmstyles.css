@@ -1,3 +1,4 @@
+
 body
 
 {
@@ -7,33 +8,79 @@ font-size:150%;
 color:#6C6C6C;
 }
 
-table 
+  
+  .visibleDiv, #topLeft
+  {
+      position: fixed;
+	  top:0px;
+      width: 100%;
+	  height:15%;
+      border: solid 1px #e1e1e1;
+      vertical-align: middle;
+      background: #FFFFFF;
+      z-index: 2;
+	  border-bottom-style:dotted;
+	  border-color: #ABC;
+	  border-width: 2px;
+	  font-size:100%;
+  }
+  
+  #topLeft
+  {
+	top: 0px;
+	left: 0px;
+	height: 15%;
+	color: #CFF;
+	border-bottom-style:dotted;
+	border: solid 1px #e1e1e1;
+	border-color: #ABC;
+	 border-width: 2px;
+	 font-size:100%;
+  }
+  
 
-{
-	
-	border-collapse: collapse; 
-	border-style:solid; 
-	border-width: 3px; 
-	border-color:#666666; 
-	font-size:75%;
-	width:100%; 
-	margin: 0 auto;
-	
-	}
+  
+  
 
-td
+  a.ex1:link,a.ex1:active {color:#AAA; text-decoration:none;}
+a.ex1:visited,a.ex1:active {color:#333;}
 
-{padding: 3px; 
-border-style:solid;
-border-width:1px; 
-border-color:#666666; 
+#exampleclass tbody,
+#exampleclass thead, 
+#exampleclass th { 
+  border: 0; 
+} 
+
+
+  
+
+  
+
+
+table.altrowstable {
+	font-family: verdana,arial,sans-serif;
+	font-size:11px;
+	color:#333333;
+	border-width: 1px;
+	border-	color: #a9c6c9;
+	border-collapse: collapse;
 }
-
-tr:nth-child(even) 
-{
-  background: #FFFFFF;
+table.altrowstable th {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
 }
-
-tr:nth-child(odd) {
-   background: #FFFFFF;
+table.altrowstable td {
+	border-width: 1px;
+	padding: 8px;
+	border-style: solid;
+	border-color: #a9c6c9;
 }
+.oddrowcolor{
+	background-color:#CCFFCC;
+}
+.evenrowcolor{
+	background-color:#FFFFFF;
+}
+</style>
