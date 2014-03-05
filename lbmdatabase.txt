@@ -1,6 +1,7 @@
 Location: Bagdad ; Region: Middle East ; Name: Bagdad Bitcoin Meetups ; Bitmessage address: BM-2cVxXDjwtHo9K8rAWb6ziJ64CW3qhD9L9m ;  ; 
 Location: Bangkok ; Region: South East Asia ; Name: Bangkok Bitcoin Meetups ; Bitmessage address: BM-2cVxhHPKLJSgVTHhjAbByS6rBVqAyE7UvM ;  ; 
 Location: Bangalore ; Region: South Asia ; Name: Bangalore Bitcoin Meetups ; BM-2cVbbZUm9KNFpeiUvUQksHxbKozA3XRAr7 ;  ; 
+Location: Beijing ; Region: East Asia ; Name: Bitcoin Beijing ; URL: http://www.meetup.com/Bitcoin-Beijing/ ;;
 Location: Beijing ; Region: East Asia ; Name: Beijing Bitcoin Meetups ; Bitmessage address: BM-2cUEHUBSc9sCPDQ7Xb7L623uD4bCDkGDsM ;  ; 
 Location: Berlin ; Region: Central Europe ; Name: Berlin Bitcoin Meetups ; Bitmessage address: BM-2cV1QDoPsDJQEgsquF29P8XehwF8424zgA ;  ; 
 Location: Brighton ; Region: Northern Europe ; Name: Brighton Bitcoin ; Address: @ Earth and Stars ; Date and time: Next meetup 2014-02-25 ; Bitmessage address: TBC
@@ -10,7 +11,7 @@ Location: Columbus ; Region: North America ; Name: Columbus Bitcoin Meetup ; URL
 Location: Cork ; Region: North America ; Name: Bitcoin Cork ; URL: http://www.meetup.com/Bitcoin-Cork/ ;  ; 
 Location: Cluj ; Region: South Europe ; Name: Bitcoin Meetup @ Cluj ; URL: http://www.meetup.com/Bitcoin-Meetup-Cluj ;  ; 
 Location: Hong Kong ; Region: East Asia ; Name: Dogecoin Hong Kong ; URL: http://www.meetup.com/Dogecoin-Hong-Kong/ ;  ; 
-Location: Houston; Texas; USA ; Region: North America ; Name: Houston Bitcoin Meetup ; Address: 1121 Delano St; Houston; TX 77003 ; Date & Time: First Monday of every month at 7:00pm CST ; BitMessage Address: BM-2cUQehq3kQErXYwKzrssuQPSjXS7jRxCZM
+Location: Houston; Texas; USA ; Region: North America ; Name: Houston Bitcoin Meetup ; Address: 1121 Delano St Houston TX 77003 ; Date & Time: First Monday of every month at 7:00pm CST ; BitMessage Address: BM-2cUQehq3kQErXYwKzrssuQPSjXS7jRxCZM
 Location: Jakarta ; Region: South East Asia ; Name: Jakarta Bitcoin Meetups ; Bitmessage Address: Bitmessage address: BM-2cXCuSc9gma6r89LUGGCStzAUp9TmW3xRS ;  ; 
 Location: Johannesburg ; Region: South Africa ; Name: Johannesburg Bitcoin Meetups ; Bitmessage address: BM-2cWNDRMj5pER95v8HQf5at6kNnrjvvbkSC ;  ; 
 Location: Lagos ; Region: Central Africa ; Name: Lagos Bitcoin Meetups ; Bitmessage address: BM-2cVRnD7mgtH9q3KeC6cAAk7DLoyPAaooeX ;  ; 
