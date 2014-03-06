@@ -47,5 +47,3 @@ Location: Toronto ; Region: North America ; Name: Toronto Bitcoin Meetups – ; 
 Location: Vancouver ; Region: North America ; Name: Vancouver Ethereum Meetup ; URL: http://www.meetup.com/Vancouver-Ethereum-Meetup/ ;  ; 
 Location: Washington ; Region: North America ; Name: BitDevs DC ; URL: http://www.meetup.com/BitDevs-DC/ ;  ; 
 Location: Zurich ; Region: Central Europe ; Zurich Bitcoin Meetups Kasernenstrasse 77; Zurich ; Every Friday ; BM TBA ; 
-
-Test. This is a test.
