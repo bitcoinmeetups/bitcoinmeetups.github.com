@@ -7,3 +7,4 @@ Bitcoin address ; Bitmessage Address ;;
 
 1BH7N9pQWE8DAeBuQWd77qpvqdfFpPqXa2 ; BM-2cWJbymbhAGXXLM2zV73sNHqKYXnfsW4sk ;;
 1L9SXyoTdbjpdPGpn4gjAFvK5xGDKYx6KZ ; BM-2cUYCHMYjrJYNuqQurEJp7xvxixH3cHsns ;; 
+1NneLrz22jmJQakWrJ5h6Lzd1rwZRozJuL ; BM-NBFswxEQfd9qYLbezS7JWz5JwbWfNEjz   ;;
