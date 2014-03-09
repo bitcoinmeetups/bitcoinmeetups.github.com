@@ -10,26 +10,33 @@ Location: Buenos Aires ; Region: South America ; Name: Buenos Aires Bitcoin Meet
 Location: Columbus ; Region: North America ; Name: Columbus Bitcoin Meetup ; URL: http://www.meetup.com/Columbus-Bitcoin-Meetup/ ;  ; 
 Location: Cork ; Region: North America ; Name: Bitcoin Cork ; URL: http://www.meetup.com/Bitcoin-Cork/ ;  ; 
 Location: Cluj ; Region: South Europe ; Name: Bitcoin Meetup @ Cluj ; URL: http://www.meetup.com/Bitcoin-Meetup-Cluj ;  ; 
+Location: Clemson ; Region: North America ; URL: http://www.meetup.com/clemsonbitcoins/ ;;
 Location: Hong Kong ; Region: East Asia ; Name: Dogecoin Hong Kong ; URL: http://www.meetup.com/Dogecoin-Hong-Kong/ ;  ; 
+Location: Hong Kong ; Region: East Asia ; Name: Ethereum Hong Kong ; URL: http://www.meetup.com/Ethereum-Hong-Kong/
 Location: Houston; Texas; USA ; Region: North America ; Name: Houston Bitcoin Meetup ; Address: 1121 Delano St Houston TX 77003 ; Date & Time: First Monday of every month at 7:00pm CST ; BitMessage Address: BM-2cUQehq3kQErXYwKzrssuQPSjXS7jRxCZM
 Location: Jakarta ; Region: South East Asia ; Name: Jakarta Bitcoin Meetups ; Bitmessage Address: Bitmessage address: BM-2cXCuSc9gma6r89LUGGCStzAUp9TmW3xRS ;  ; 
 Location: Johannesburg ; Region: South Africa ; Name: Johannesburg Bitcoin Meetups ; Bitmessage address: BM-2cWNDRMj5pER95v8HQf5at6kNnrjvvbkSC ;  ; 
+Location: Kampala; Region: Central Africa ; Name: Kampala Bitcoin Meetup ; URL: http://www.meetup.com/Kampala-Bitcoin-Meetup/
+Location: Kecskemet ; Region: Central Europe ; Name: Bitcoin Kecskemet ; URL: http://www.meetup.com/Bitcoin-Kecskemet/ ;;
 Location: Lagos ; Region: Central Africa ; Name: Lagos Bitcoin Meetups ; Bitmessage address: BM-2cVRnD7mgtH9q3KeC6cAAk7DLoyPAaooeX ;  ; 
 Location: London ; Region: Northern Europe ; Name: London Bitcoin Meetups ; Address: Bishops Square Bushfield Street ; Date and time: Saturdays 1 PM ; Bitmessage address: BM-2cX8QJdNyKJX569Pv4idgPM6dKEYjxSYYq
 Location: Los Angeles ; Region: North America ; Name: Los Angeles Bitcoin Meetups ; Bitmessage address: Bitmessage address: BM-2cXPQoeVEaq2rN2NEi9w8kTCaDwsBjP1pb ;  ; 
-Location: Montreal ; Region: North America ; Name: Montreal Bitcoin Meetups ; Bitmessage address: Bitmessage address: BM-2cWsUWwehYWQFqAoRAjaTfe3xK9hmtZEu5 ;  ; 
-Location: Montreal ; Region: North America ; Name ; Montréal Ethereum Meetup ; URL: http://www.meetup.com/Montreal-Ethereum-Meetup ; 
+Location: Los Angeles ; Region: North America ; Name: Los Angeles Ethereum ; URL: http://www.meetup.com/Los-Angeles-Ethereum/
+Location: Montreal ; Region: North America ; Name: Montreal Bitcoin Meetups ;  Bitmessage address: BM-2cWsUWwehYWQFqAoRAjaTfe3xK9hmtZEu5 ;  ; 
+Location: Montreal ; Region: North America ; Name: Montreal Ethereum Meetup ; URL: http://www.meetup.com/Montreal-Ethereum-Meetup ; 
 Location: Hyderabad ; Region: South Asia ; Name: Hyderabad Bitcoin miners;Crypto technologists and Traders ; URL: http://www.meetup.com/Hyderabad-Bitcoin-miners-Crypto-technologists-and-Traders/ ;  ; 
-Location: Madrid ; Region: South Europe ; Name: Ethereum Spain URL: http://www.meetup.com/Ethereum-Spain ;  ;  ; 
+Location: Madrid ; Region: South Europe ; Name: Ethereum Spain ; URL: http://www.meetup.com/Ethereum-Spain ;  ;  ; 
 Location: Melbourne ; Region: Australia ; Name: Melbourne Bitcoin Meetups ; Bitmessage address: BM-2cT9wVr9rhzmCLxqgmFbHxyrbE5oMTa2VP ;  ; 
+Location: Melbourne; Region: Australia ; Name: Melbourne Ethereum Meetups ; URL: http://www.meetup.com/Melbourne-Ethereum-Meetup/ ;;
 Location: Moscow ; Region: Europe ; Name: Moscow Bitcoin Meetups ; Bitmessage address: BM-2cVBwTGfGyBt8Wmkj4e7fH719jCKDv9i7i ;  ; 
 Location: Munich ; Region: Central Europe ; Name: Bitcoin Munich ; URL: http://www.meetup.com/Bitcoin-Munich ;  ; 
 Location: Nairobi ; Region: East Africa ; Nairobi Bitcoin Meetups ; Bitmessage address: BM-2cThfobcD14iwjyPxEXFgn1Qe4ajDYc9TL ;  ; 
 Location: New Delhi ; Region: South Asia ; New Delhi Bitcoin Meetups ; Bitmessage address: BM-2cWTiu2w7wu9G7VLZeGz82uGhEHZjWPwTP ;  ; 
-Location: New York ; Region: North America ; Name: New York Satoshi Square – Union Square Park Date and Time: 1 PM – Every Saturday ; Bitmessage address: BM-2cXYPmDA8kUFKZWLFdmn5ZRiqAdFzXxd2Q ;  ; 
+Location: New York ; Region: North America ; Name: New York Satoshi Square ; Address: Union Square Park ; Date and Time: 1 PM Every Saturday ; Bitmessage address: BM-2cXYPmDA8kUFKZWLFdmn5ZRiqAdFzXxd2Q ;  ; 
 Location: Nijmegen ; Region: Central Europe ; Name: Bitcoin Wednesday Nijmegen ; URL: http://www.meetup.com/bitcoin-wednesday-nijmegen ;  ; 
+Location: Palo Alton ; Region: North America ; Name: Palo Alto Bitcoin ; URL: http://www.meetup.com/Palo-Alto-bitcoin/
 Location: Paris ; Region: Central Europe ; Paris Bitcoin Meetups ; Bitmessage address: BM-2cXBwiN2ge1PEfEyVX2ZYePqxDBp1NoZkm ;  ; 
-Location: Paris ; Region: Central Europe ; Name: France Bitcoin Startups http://www.meetup.com/France-Bitcoin-Startups ;  ;  ; 
+Location: Paris ; Region: Central Europe ; Name: France Bitcoin Startups ; URL: http://www.meetup.com/France-Bitcoin-Startups ;  ;  ; 
 Location: Rio De Janeiro ; Region: South America ; Rio De Janeiro Bitcoin Meetups ; Bitmessage address: BM-2cXbQeFGqSno4sC1aY2P7a8LLWMjh4i8Ko ;  ; 
 Location: Saint Petersburg ; Region: Northern Europe ; Saint Petersburg Bitcoin Meetups ; Bitmessage address: BM-2cULWixNP52hFY57qmPSjpXbQ3kxQZ3gHC ;  ; 
 Location: San Francisco ; Region: North America ; Name: 20 Mission Bitcoin and Digital Currency meetup ; URL: http://www.meetup.com/20mission/ ;  ; 
@@ -38,12 +45,15 @@ Location: Sao Paulo ; Region: South America ; Sao Paulo Bitcoin Meetups ; Bitmes
 Location: Seattle ; Region: North America ; Seattle Bitcoin Meetups ; Bitmessage address: BM-2cTm9BgGNejSPVut4A7w2FhphqzMnVDeuT ;  ; 
 Location: Shanghai ; Region: East Asia ; Shanghai Bitcoin Meetups ; Bitmessage address: BM-2cXhvkfN8kpeKx39FY4d2VXwwhDzDSBhKX ;  ; 
 Location: Singapore ; Region: South East Asia ; Name: Singapore Bitcoin Meetups ; Bitmessage address: BM-2cVaoJF3rmP6L6h7nUYX5nAzBFuuMFMspV ;  ; 
-Location: Stockholm ; Region: Northern Europe ; Name: Stockholm Satoshi Square – Stockholm – 5 PM – Every Monday ; Bitmessage address: BM-2cTiB21VHw17V5oZeJZ8f6c9FH9FAWdobP ;  ; 
+Location: Singapore ; Region: South East Asia ; Name: Singapore Ethereum Meetup ; URL: http://www.meetup.com/Singapore-Ethereum-Meetup/ ;;
+Location: Stockholm ; Region: Northern Europe ; Name: Stockholm Satoshi Square  Stockholm  5 PM  Every Monday ; Bitmessage address: BM-2cTiB21VHw17V5oZeJZ8f6c9FH9FAWdobP ;  ; 
 Location: Sydney ; Region: Australia ; Name: Sydney Bitcoin Meetups ; Bitmessage address: BM-2cVqT9iMyYBi5F2HAYCWwYnkNpvY4cJTGF ;  ; 
 Location: Teheran ; Region: Middle East ; Name: Teheran Bitcoin Meetups ; Bitmessage address: BM-2cVLbtFwK9gjorUo36S9SaZcKn3yd4na8F ;  ; 
 Location: Tel Aviv ; Region: Middle East ; Name: Ethereum Forum Tel Aviv ; URL: http://www.meetup.com/Ethereum-Tel-Aviv/ ;  ; 
 Location: Tokyo ; Region: East Asia ; Name: Tokyo Bitcoin Meetup Group ; Address: At The Nishimura Fruit Parlor (Shibuya-ku Udagawacho 22-2 2F; Tokyo) ; Date and Time: Every Saturday 7:30 PM ; Bitmessage address: BM-2cXsrG7tDqzgGXHnYd6jbfa6oLREYYSMdP
-Location: Toronto ; Region: North America ; Name: Toronto Bitcoin Meetups – ; Date and Time: The Charlotte Room (19 Charlotte St; Toronto – 7 PM – Every Thursday – BM TBA ;  ; 
+Location: Toronto ; Region: North America ; Name: Toronto Bitcoin Meetups ; Date and Time: The Charlotte Room (19 Charlotte St; Toronto – 7 PM – Every Thursday – BM TBA ;  ; 
 Location: Vancouver ; Region: North America ; Name: Vancouver Ethereum Meetup ; URL: http://www.meetup.com/Vancouver-Ethereum-Meetup/ ;  ; 
+Location: Vienna ; Region: Central Europe ; Name: Ethereum Vienna ; URL: http://www.meetup.com/Ethereum-Vienna/ ;;
+Location: Vina del Mar ; Region : South America ; Name: Bitcoin Vina Del Mar ; URL: http://www.meetup.com/Bitcoin-Vina-del-Mar/
 Location: Washington ; Region: North America ; Name: BitDevs DC ; URL: http://www.meetup.com/BitDevs-DC/ ;  ; 
 Location: Zurich ; Region: Central Europe ; Zurich Bitcoin Meetups Kasernenstrasse 77; Zurich ; Every Friday ; BM TBA ; 
