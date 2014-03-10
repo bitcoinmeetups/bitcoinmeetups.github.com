@@ -13,6 +13,16 @@
  <description>This is the text that will appear in the feedreaders. It describes the post itself, not the entire feed.</description>
  <guid>http://webdesign.about.com/rss2.0feed/entry.html</guid>
  </item>
+ 
+  <item>
+ 
+ <title>Crowdfunding campaign - Porkfunding</title>
+ 
+ <link>https://bitcoinstarter.com/projects/622</link>
+ 
+ <description>This is the text that will appear in the feedreaders. It describes the post itself, not the entire feed.</description>
+  
+<item>
   
 <item>
 <title><![CDATA[Re: [ANN][BEE]BeeCoin - Launched/5 EXCHANGES]]></title>
