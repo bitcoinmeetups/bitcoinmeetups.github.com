@@ -1,0 +1,20 @@
+Hi there,
+
+Welcome to this repository. Please submit a short introduction here. Use the following format:
+
+When you edit this data, please use the same format as below. 
+
+1. Use colon : between the field descriptor and the item 
+2. Use semicolon ; between each field. 
+3. End each row with a double semicolon ;;
+
+What is your nick?
+Are you a developer or do you have a different background?
+What makes you interested in Bitcoin?
+Other info that might be of interest?
+
+_____________________________________________________________________________________
+
+Nick: kid9 ; Occupation: part-time developer ; What makes you interested in Bitcoin? : it is the future ; Other info that might be of interest: 
+mechatronic engineer by training, private equity investor by work experience; working in singapore as a tech investor ;; 
+
