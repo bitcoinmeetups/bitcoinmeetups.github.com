@@ -1,6 +1,6 @@
 Hi there,
 
-Welcome to this repository. Please submit a short introduction here. Use the following format:
+Welcome to this repository. Please submit a short introduction here.
 
 When you edit this data, please use the same format as below. 
 
