@@ -1,0 +1,30 @@
+When you edit this data, please use the same format as below. 
+
+1. Use colon : between the field descriptor and the item 
+2. Use semicolon ; between each field. 
+3. End each row with a double semicolon ;;
+
+Name of coin: 42coin ; Currency Code: 42C ; Address: 4YTJbBJqs5mYXJv1DocbqAEfN8LDcoWpFe ;;
+Name of coin: AlphaCoin; Currency Code: ALF ; Address: aL311xDwLbyipTzVxkKbUgWbZAofYy7x9c;;
+Name of coin: AmericanCoin; Currency Code: AMC; Address: AjmSyjQ9eYpgFskBpCNRrNGum2SGcbGkm8;;
+Name of coin: AnonCoin; Currency Code: ANC; Address: AZZJXtzmrSXCNyvQk3ro9iZhqJwCtCgbia;;
+Name of coin: Argentum; Currency Code: ARG; Address: A2qWQk5wwCqcadSsqiPy7xfmuSeNez6SNy;;
+Name of coin: AsicCoin; Currency Code: ASC ; Address: A2qWQk5wwCqcadSsqiPy7xfmuSeNez6SNy;;
+Name of coin: BattleCoin; Currency Code: BCX ; Address: BHW2th8FUmBXsaay36q3mVLXJuTjucSMRj;;
+Name of coin: BBQCoin; Currency Code: BQC; Address: ;;
+Name of coin: Benjamins; Currency Code: BEN; Address: ;;
+Name of coin: Betacoin; Currency Code: BET; Address: ;;
+Name of coin: BitBar; Currency Code: BTB; Address: ;;
+Name of coin: Bitcoin; Currency Code: BTC; Address: 18RXsXkDaFKiDBRXHsbXyrDvEMeajscoWf;;
+Name of coin: Bitgem; Currency Code: BTG; Address: ;;
+Name of coin: BottleCaps; Currency Code: CAP; Address: ;;
+Name of coin: ByteCoin; Currency Code: BTE; Address: ;;
+Name of coin: CACHeCoin; Currency Code: CACH; Address: ;;
+Name of coin: CashCoin; Currency Code: CASH; Address: ;;
+Name of coin: CasinoCoin; Currency Code: CSC; Address: ;;
+Name of coin: ; Currency Code: ; Address: ;;
+Name of coin: ; Currency Code: ; Address: ;;
+Name of coin: ; Currency Code: ; Address: ;;
+Name of coin: ; Currency Code: ; Address: ;;
+Name of coin: ; Currency Code: ; Address: ;;
+Name of coin: ; Currency Code: ; Address: ;;
