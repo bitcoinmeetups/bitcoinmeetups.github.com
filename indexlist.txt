@@ -1,0 +1,7 @@
+When you edit this data, please use the same format as below. 
+
+1. Use colon : between the field descriptor and the item 
+2. Use semicolon ; between each field. 
+3. End each row with a double semicolon ;;
+
+Name of list: Local Bitcoin Meetups ; Description: A long list of local bitcoin meetups everywhere in the world ; URL: http://entrances.github.io/ProjectLocalBitcoinMeetups.html ;;
