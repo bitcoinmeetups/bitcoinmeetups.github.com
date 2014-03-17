@@ -5,3 +5,5 @@ When you edit this data, please use the same format as below.
 3. End each row with a double semicolon ;;
 
 Name of list: Local Bitcoin Meetups ; Description: A long list of local bitcoin meetups everywhere in the world ; URL: http://entrances.github.io/ProjectLocalBitcoinMeetups.html ;;
+
+Name of list: Bitmessage Broadcasts ; Description: A list of broadcasting channels on Bitmessage ; URL: TBA;;
