@@ -6,6 +6,9 @@ background-color:#F5F5F5;
 font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
 font-size:150%;
 color:#6C6C6C;
+max-width: 100%;
+width: 100%; 
+
 }
 
   
@@ -30,11 +33,21 @@ color:#6C6C6C;
 	top: 0px;
 	left: 0px;
 	height: 15%;
-	color: #CFF;
+	color: #AAA;
 	border-bottom-style:dotted;
 	border: solid 1px #e1e1e1;
 	border-color: #ABC;
 	 border-width: 2px;
+	 font-size:100%;
+  }
+  
+    #topLeft2
+  {
+	top: 0px;
+	left: 0px;
+	height: 15%;
+	color: #CFF;
+	z-index:-1;
 	 font-size:100%;
   }
   
@@ -85,4 +98,20 @@ table.altrowstable td {
 .evenrowcolor{
 	background-color:#FFFFFF;
 }
-</style>
+
+#wrapper
+
+{
+
+max-width:100px;
+word-wrap: break-word;
+
+}
+
+h1
+
+{font-color: #AAA;}
+
+h5
+
+{font-size:50%}
