@@ -11,6 +11,20 @@ width: 100%;
 
 }
 
+th
+
+{
+
+background-color:white;
+color:orange;
+font-size:150%;
+border:10px solid black;
+border-style:dotted;
+width:100%;
+max-width:100%;
+
+}
+
   
   .visibleDiv, #topLeft
   {
@@ -75,6 +89,7 @@ table.altrowstable {
 font-family:"Arial", Helvetica, Arial, sans-serif;
 font-size:80%;
 font-style:strong;
+width:100%;
 	color:#555;
 	border-width: 1px;
 	border-color: #a9c6c9;
@@ -83,12 +98,14 @@ font-style:strong;
 table.altrowstable th {
 	border-width: 1px;
 	padding: 8px;
+	width:100%;
 	border-style: solid;
 	border-color: #a9c6c9;
 }
 table.altrowstable td {
 	border-width: 1px;
 	padding: 8px;
+	width:100%;
 	border-style: solid;
 	border-color: #a9c6c9;
 }
@@ -115,3 +132,7 @@ h1
 h5
 
 {font-size:50%}
+
+table{
+    width:100%;
+}
