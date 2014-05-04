@@ -89,7 +89,7 @@ table.altrowstable {
 font-family:"Arial", Helvetica, Arial, sans-serif;
 font-size:80%;
 font-style:strong;
-width:100%;
+
 	color:#555;
 	border-width: 1px;
 	border-color: #a9c6c9;
@@ -98,14 +98,14 @@ width:100%;
 table.altrowstable th {
 	border-width: 1px;
 	padding: 8px;
-	width:100%;
+	
 	border-style: solid;
 	border-color: #a9c6c9;
 }
 table.altrowstable td {
 	border-width: 1px;
 	padding: 8px;
-	width:100%;
+	
 	border-style: solid;
 	border-color: #a9c6c9;
 }
@@ -120,7 +120,7 @@ table.altrowstable td {
 
 {
 
-max-width:100px;
+
 word-wrap: break-word;
 
 }
@@ -134,5 +134,6 @@ h5
 {font-size:50%}
 
 table{
-    width:100%;
+    
+	table-layout: fixed;
 }
