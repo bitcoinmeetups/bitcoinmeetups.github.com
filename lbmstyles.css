@@ -137,3 +137,9 @@ table{
     
 	table-layout: fixed;
 }
+
+pre {
+	font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
+	overflow: auto;
+	font-size:100%;
+	}
