@@ -1,8 +1,6 @@
 Hi there,
 
-Welcome to the GIT Project.
-
-Please visit bitcoinmeetups.org for more information about our open source projects. 
+Welcome to our open source projects. Please visit bitcoinmeetups.org for more information. 
 
 We build stuff together. 
 
