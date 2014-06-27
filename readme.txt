@@ -1,6 +1,6 @@
 Hi there,
 
-Welcome to our open source projects. Please visit bitcoinmeetups.org for more information. 
+Welcome to this hub for our open source projects. Please visit bitcoinmeetups.org for more information. 
 
 We build stuff together. 
 
