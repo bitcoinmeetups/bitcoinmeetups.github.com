@@ -11,7 +11,7 @@ Name of coin: AnonCoin; Currency Code: ANC; Address: AZZJXtzmrSXCNyvQk3ro9iZhqJw
 Name of coin: Argentum; Currency Code: ARG; Address: A2qWQk5wwCqcadSsqiPy7xfmuSeNez6SNy;;
 Name of coin: AsicCoin; Currency Code: ASC ; Address: A2qWQk5wwCqcadSsqiPy7xfmuSeNez6SNy;;
 Name of coin: BattleCoin; Currency Code: BCX ; Address: BHW2th8FUmBXsaay36q3mVLXJuTjucSMRj;;
-Name of coin: BBQCoin; Currency Code: BQC; Address: ;;
+Name of coin: BBQCoin; Currency Code: BQC; Address: ;; BBQCoin address goes here;;
 Name of coin: Benjamins; Currency Code: BEN; Address: ;;
 Name of coin: Betacoin; Currency Code: BET; Address: ;;
 Name of coin: BitBar; Currency Code: BTB; Address: ;;
