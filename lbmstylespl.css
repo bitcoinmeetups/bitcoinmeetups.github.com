@@ -1,7 +1,7 @@
-
 body
 
 {
+
 background-color:#F5F5F5;
 font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
 font-size:150%;
@@ -15,6 +15,8 @@ width: 100%;
 a:link {
 color: #000000;
 text-decoration: none;
+color: orange;
+
 }
 
 /* visited link */
@@ -31,7 +33,7 @@ color: orange;
 
 /* selected link */
 a:active {
-color: #0000FF;
+color: #FFF;
 }
 
 th
@@ -52,6 +54,7 @@ max-width:100%;
   .visibleDiv, #topLeft
   {
       position: fixed;
+      color: black;
       top:0px;
       width: 100%;
       height:15%;
@@ -61,7 +64,7 @@ max-width:100%;
       z-index: 2;
 	  border-bottom-style:dotted;
 	  border-color: #ABC;
-	  border-width: 2px;
+	  border-width: 0px;
 	  font-size:100%;
   }
   
@@ -71,11 +74,13 @@ max-width:100%;
 	top: 0px;
 	left: 0px;
 	height: 15%;
-	color: #000;
+	color: black;
+background-color: black;
 	border-bottom-style:dotted;
 	border: solid 1px #e1e1e1;
 	border-color: #ABC;
 	 border-width: 2px;
+border-style: dotted;
 	 font-size:100%;
   }
   
@@ -146,7 +151,7 @@ word-wrap: break-word;
 
 h1
 
-{font-color: #AAA;}
+{font-color: #FFF;}
 
 h3
 
@@ -158,7 +163,15 @@ text-align: center;
 
 h5
 
-{font-size:70%}
+{font-size:70%;
+color:orange;
+}
+
+u
+
+{
+color:orange;
+}
 
 
 
