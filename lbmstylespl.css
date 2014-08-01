@@ -147,6 +147,14 @@ text-align: center;
 
 }
 
+
+h3
+
+{font-size:100%;
+color:orange;
+}
+
+
 h5
 
 {font-size:70%;
@@ -157,6 +165,19 @@ u
 
 {
 color:orange;
+
+}
+
+u:visited {
+color: orange;
+text-decoration: none;
+}
+
+u:link {
+color: black;
+text-decoration: none;
+color: orange;
+
 }
 
 
