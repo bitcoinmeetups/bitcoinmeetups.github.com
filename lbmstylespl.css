@@ -161,6 +161,19 @@ h5
 color:orange;
 }
 
+h6
+
+{font-size:100%;
+color:black;
+}
+
+h2
+
+{font-size:100%;
+color:black;
+font-style: oblique;
+}
+
 u
 
 {
@@ -192,4 +205,6 @@ pre {
 	overflow: auto;
 	font-size:100%;
         text-align: justify;
+        color: black;
+
 	}
