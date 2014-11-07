@@ -4,10 +4,17 @@ body
 
 background-color:#F5F5F5;
 font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
-font-size:150%;
+font-size:200%;
 color:#6C6C6C;
 max-width: 100%;
 width: 100%; 
+max-width:8.2681in;margin-top:0.7874in; margin-bottom:0.5902in; margin-left:1.1811in; margin-right:1.1811in; writing-mode:lr-tb; 
+
+}
+
+/* unvisited link */
+a {
+font-size:140%;
 
 }
 
@@ -30,6 +37,7 @@ a:hover {
 color: orange;
 
 }
+
 
 /* selected link */
 a:active {
@@ -215,3 +223,27 @@ pre {
         color: black;
 
 	}
+
+//
+
+table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+	td, th { vertical-align:top; font-size:12pt;}
+	h1, h2, h3, h4, h5, h6 { clear:both }
+	ol, ul { margin:0; padding:0;}
+	li { list-style: none; margin:0; padding:0;}
+	<!-- "li span.odfLiEnd" - IE 7 issue-->
+	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
+	span.footnodeNumber { padding-right:1em; }
+	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+	* { margin:0;}
+	.fr1 { font-size:20pt; font-family:Liberation Serif; text-align:center; vertical-align:top; writing-mode:lr-tb; margin-left:0in; margin-right:0in; padding:0.0008in; border-style:none; }
+	.P1 { font-size:18pt; text-align:left ! important; font-family:Times New Roman; writing-mode:lr-tb; line-height:130%; color:#000000; }
+	.P2 { font-size:18pt; text-align:left ! important; font-family:Times New Roman; writing-mode:lr-tb; line-height:130%; color:#000000; }
+
+body
+
+{
+
+font-size:200%;
+
+}
