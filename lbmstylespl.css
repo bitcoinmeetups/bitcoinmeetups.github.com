@@ -1,200 +1,3 @@
-body
-
-{
-
-background-color:#F5F5F5;
-font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
-font-size:200%;
-color:#6C6C6C;
-max-width: 100%;
-width: 100%; 
-max-width:8.2681in;margin-top:0.7874in; margin-bottom:0.5902in; margin-left:1.1811in; margin-right:1.1811in; writing-mode:lr-tb; 
-
-}
-
-/* unvisited link */
-a {
-font-size:140%;
-
-}
-
-/* unvisited link */
-a:link {
-color: black;
-text-decoration: none;
-color: orange;
-
-}
-
-/* visited link */
-a:visited {
-color: black;
-text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-color: orange;
-
-}
-
-
-/* selected link */
-a:active {
-color: #FFF;
-}
-
-th
-
-{
-background-color:white;
-color:orange;
-font-size:150%;
-border:10px solid black;
-border-style:dotted;
-width:100%;
-max-width:100%;
-}
-
-  
-  .visibleDiv, #topLeft
-  {
-      position: fixed;
-      color: black;
-      top:0px;
-      width: 100%;
-      height:20%;
-      border: solid 1px #e1e1e1;
-      vertical-align: middle;
-      background: #FFFFFF;
-      z-index: 2;
-      border-bottom-style:dotted;
-      border-color: #ABC;
-      border-width: 0px;
-      font-size:100%;
-  }
-  
-  #topLeft
-  
-{
-	top: 0px;
-	left: 0px;
-	height: 13%;
-	color: black;
-        background-color: black;
-	border-bottom-style:dotted;
-	border: solid 1px #e1e1e1;
-	border-color: #ABC;
-	border-width: 2px;
-        border-style: dotted;
-	font-size:100%;
-  }  
-
-  a.ex1:link,a.ex1:active {color:orange; text-decoration:none;}
-a.ex1:visited,a.ex1:active {color:orange;}
-
-#exampleclass tbody,
-#exampleclass thead, 
-#exampleclass th { 
-  border: 0; 
-} 
-
-table.altrowstable {
-
-font-family:"Arial", Helvetica, Arial, sans-serif;
-font-size:80%;
-font-style:strong;
-
-	color:#555;
-	border-width: 1px;
-	border-color: #a9c6c9;
-	border-collapse: collapse;
-}
-
-table.altrowstable th {
-	border-width: 1px;
-	padding: 8px;
-	text-align: left;
-	border-style: solid;
-	border-color: #a9c6c9;
-}
-
-table.altrowstable td {
-	border-width: 1px;
-	padding: 8px;
-	width: 25%;
-	border-style: solid;
-	border-color: #a9c6c9;
-color: black;
-}
-.oddrowcolor{
-	background-color:#CCFFCC;
-}
-.evenrowcolor{
-	background-color:#FFFFFF;
-}
-
-#wrapper
-
-{
-
-
-word-wrap: break-word;
-
-}
-
-h1
-
-{font-color: #FFF;}
-
-h3
-
-{
-
-text-align: center;
-
-}
-
-
-h3
-
-{font-size:100%;
-color:orange;
-}
-
-
-h5
-
-{font-size:70%;
-color:orange;
-}
-
-h6
-
-{font-size:100%;
-color:black;
-}
-
-h2
-
-{font-size:50%;
-color:black;
-font-style: oblique;
-}
-
-h7
-
-{font-size:100%;
-color:orange;
-font-style: oblique;
-}
-
-u
-
-{
-color:orange;
-
-}
 
 u:visited {
 color: orange;
@@ -209,41 +12,47 @@ color: orange;
 }
 
 
+* { margin: 0; padding: 0; }
+		
+		html { 
+			background: url(mv2.svg) no-repeat center center fixed ; 
 
-table{
-    
-	table-layout: fixed;
-}
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
 
-pre {
-	font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
-	overflow: auto;
-	font-size:100%;
-        text-align: justify;
-        color: black;
 
-	}
 
-//
+background-color:rgba(255,0,0,0.1);
+		}
+		
+		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
 
-table { border-collapse:collapse; border-spacing:0; empty-cells:show }
-	td, th { vertical-align:top; font-size:12pt;}
-	h1, h2, h3, h4, h5, h6 { clear:both }
-	ol, ul { margin:0; padding:0;}
-	li { list-style: none; margin:0; padding:0;}
-	<!-- "li span.odfLiEnd" - IE 7 issue-->
-	li span. { clear: both; line-height:0; width:0; height:0; margin:0; padding:0; }
-	span.footnodeNumber { padding-right:1em; }
-	span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
-	* { margin:0;}
-	.fr1 { font-size:20pt; font-family:Liberation Serif; text-align:center; vertical-align:top; writing-mode:lr-tb; margin-left:0in; margin-right:0in; padding:0.0008in; border-style:none; }
-	.P1 { font-size:18pt; text-align:left ! important; font-family:Times New Roman; writing-mode:lr-tb; line-height:130%; color:#000000; }
-	.P2 { font-size:18pt; text-align:left ! important; font-family:Times New Roman; writing-mode:lr-tb; line-height:130%; color:#000000; }
+	#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+	
 
-body
+div.transbox
 
 {
+  width: 100%;
 
-font-size:200%;
 
+  background: rgb(254, 254, 254); /* The Fallback */
+   background: rgba(255, 254, 254, 0.7); 
+font-size: 400%;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p
+
+{
+  margin: 30px 40px;
+  font-weight: bold;
+font: rgb(0, 54, 54); /* The Fallback */
+
+font-size: 400%;
+  color: #000000;
 }
