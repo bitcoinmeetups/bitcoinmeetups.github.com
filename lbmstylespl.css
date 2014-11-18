@@ -15,7 +15,7 @@ color: orange;
 * { margin: 0; padding: 0; }
 		
 		html { 
-			background: url(mv2.svg) no-repeat center center fixed ; 
+			background: url(Backgroundv3.svg) no-repeat center center fixed ; 
 
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
@@ -42,7 +42,7 @@ div.transbox
 
   background: rgb(254, 254, 254); /* The Fallback */
    background: rgba(255, 254, 254, 0.7); 
-font-size: 400%;
+font-size: 250%;
   filter:alpha(opacity=60); /* For IE8 and earlier */
 }
 
@@ -53,6 +53,6 @@ div.transbox p
   font-weight: bold;
 font: rgb(0, 54, 54); /* The Fallback */
 
-font-size: 400%;
+font-size: 100%;
   color: #000000;
 }
