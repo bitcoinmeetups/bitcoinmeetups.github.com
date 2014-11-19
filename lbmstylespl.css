@@ -1,7 +1,47 @@
+/* unvisited link */
+a:link {
+    color: black;
+text-decoration: none;
+
+}
+
+/* visited link */
+a:visited {
+   color: black;
+text-decoration: none;
+
+}
+
+/* mouse over link */
+a:hover {
+    
+text-decoration: none;
+color: orange;
+}
+
+/* selected link */
+a:active {
+   
+text-decoration: none;
+color: orange;
+}
+
+u:visited {
+color: orange;
+text-decoration: none;
+}
+
+u:link {
+color: black;
+text-decoration: none;
+color: orange;
+
+}
 
 * { margin: 0; padding: 0; }
 		
-		html { 
+		html { background-color:#fef;
+font-size:115%;
 			
 		}
 		
@@ -45,5 +85,6 @@ a:hover + .box,.box:hover{
     display: block;
     position: relative;
     z-index: 100;
+
 }
 
