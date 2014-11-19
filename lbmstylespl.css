@@ -1,58 +1,18 @@
 
-u:visited {
-color: orange;
-text-decoration: none;
+
+.box{
+    display: none;
+    width: 100%;
 }
 
-u:link {
-color: black;
-text-decoration: none;
-color: orange;
-
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
 }
 
+body
 
-* { margin: 0; padding: 0; }
-		
-		html { 
-			background: url(Backgroundv3.svg) no-repeat center center fixed ; 
-
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
-
-
-
-background-color:rgba(255,0,0,0.1);
-		}
-		
-		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
-		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
-
-	#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
-		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
-	
-
-div.transbox
-
-{
-  width: 100%;
-
-
-  background: rgb(254, 254, 254); /* The Fallback */
-   background: rgba(255, 254, 254, 0.7); 
-font-size: 250%;
-  filter:alpha(opacity=60); /* For IE8 and earlier */
-}
-
-div.transbox p
-
-{
-  margin: 30px 40px;
-  font-weight: bold;
-font: rgb(0, 54, 54); /* The Fallback */
-
-font-size: 100%;
-  color: #000000;
+{background-color: white;
+background: white;
 }
