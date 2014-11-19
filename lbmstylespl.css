@@ -1,172 +1,3 @@
-body
-
-{
-
-background-color:#F5F5F5;
-font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
-font-size:150%;
-color:#6C6C6C;
-max-width: 100%;
-width: 100%; 
-
-}
-
-/* unvisited link */
-a:link {
-color: black;
-text-decoration: none;
-color: orange;
-
-}
-
-/* visited link */
-a:visited {
-color: black;
-text-decoration: none;
-}
-
-/* mouse over link */
-a:hover {
-color: orange;
-
-}
-
-/* selected link */
-a:active {
-color: #FFF;
-}
-
-th
-
-{
-background-color:white;
-color:orange;
-font-size:150%;
-border:10px solid black;
-border-style:dotted;
-width:100%;
-max-width:100%;
-}
-
-  
-  .visibleDiv, #topLeft
-  {
-      position: fixed;
-      color: black;
-      top:0px;
-      width: 100%;
-      height:20%;
-      border: solid 1px #e1e1e1;
-      vertical-align: middle;
-      background: #FFFFFF;
-      z-index: 2;
-      border-bottom-style:dotted;
-      border-color: #ABC;
-      border-width: 0px;
-      font-size:100%;
-  }
-  
-  #topLeft
-  
-{
-	top: 0px;
-	left: 0px;
-	height: 13%;
-	color: black;
-        background-color: black;
-	border-bottom-style:dotted;
-	border: solid 1px #e1e1e1;
-	border-color: #ABC;
-	border-width: 2px;
-        border-style: dotted;
-	font-size:100%;
-  }  
-
-  a.ex1:link,a.ex1:active {color:orange; text-decoration:none;}
-a.ex1:visited,a.ex1:active {color:orange;}
-
-#exampleclass tbody,
-#exampleclass thead, 
-#exampleclass th { 
-  border: 0; 
-} 
-
-table.altrowstable {
-
-font-family:"Arial", Helvetica, Arial, sans-serif;
-font-size:80%;
-font-style:strong;
-
-	color:#555;
-	border-width: 1px;
-	border-color: #a9c6c9;
-	border-collapse: collapse;
-}
-
-table.altrowstable th {
-	border-width: 1px;
-	padding: 8px;
-	text-align: left;
-	border-style: solid;
-	border-color: #a9c6c9;
-}
-
-table.altrowstable td {
-	border-width: 1px;
-	padding: 8px;
-	width: 25%;
-	border-style: solid;
-	border-color: #a9c6c9;
-color: black;
-}
-.oddrowcolor{
-	background-color:#CCFFCC;
-}
-.evenrowcolor{
-	background-color:#FFFFFF;
-}
-
-#wrapper
-
-{
-
-
-word-wrap: break-word;
-
-}
-
-h1
-
-{font-color: #FFF;}
-
-h3
-
-{
-
-text-align: center;
-
-}
-
-
-h3
-
-{font-size:100%;
-color:orange;
-}
-
-
-h5
-
-{font-size:70%;
-color:orange;
-}
-
-u
-
-{
-color:orange;
-
-}
 
 u:visited {
 color: orange;
@@ -181,15 +12,47 @@ color: orange;
 }
 
 
+* { margin: 0; padding: 0; }
+		
+		html { 
+			background: url(Backgroundv3.svg) no-repeat center center fixed ; 
 
-table{
-    
-	table-layout: fixed;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+
+
+
+background-color:rgba(255,0,0,0.1);
+		}
+		
+		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+
+	#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+	
+
+div.transbox
+
+{
+  width: 100%;
+
+
+  background: rgb(254, 254, 254); /* The Fallback */
+   background: rgba(255, 254, 254, 0.7); 
+font-size: 250%;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
 }
 
-pre {
-	font-family:"Trebuchet MS", Helvetica, Arial, sans-serif;
-	overflow: auto;
-	font-size:100%;
-        text-align: justify;
-	}
+div.transbox p
+
+{
+  margin: 30px 40px;
+  font-weight: bold;
+font: rgb(0, 54, 54); /* The Fallback */
+
+font-size: 100%;
+  color: #000000;
+}
