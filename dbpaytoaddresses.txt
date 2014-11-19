@@ -1,4 +1,4 @@
-When you edit this data, please use the same format as below. 
+When you edit this data, please sue the same format as below. 
 
 1. Use colon : between the field descriptor and the item 
 2. Use semicolon ; between each field. 
