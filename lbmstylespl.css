@@ -2,6 +2,7 @@
 a:link {
     color: black;
 text-decoration: none;
+background-color: white; 
 
 }
 
@@ -9,6 +10,7 @@ text-decoration: none;
 a:visited {
    color: black;
 text-decoration: none;
+background-color: white; 
 
 }
 
@@ -17,6 +19,7 @@ a:hover {
     
 text-decoration: none;
 color: orange;
+background-color: white; 
 }
 
 /* selected link */
@@ -24,11 +27,13 @@ a:active {
    
 text-decoration: none;
 color: orange;
+background-color: white; 
 }
 
 u:visited {
 color: orange;
 text-decoration: none;
+
 }
 
 u:link {
