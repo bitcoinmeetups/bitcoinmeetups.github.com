@@ -192,6 +192,14 @@ color: black;
    
 }
 
+h10 span { 
+font-family: "Times New Roman", Georgia, Serif;
+    background-color: white; 
+    font-size: 102%;
+font-weight: bold;
+
+}
+
 
 * { margin: 0; padding: 0; }
 		
