@@ -151,7 +151,7 @@ h6
 
 {
 
-background-color: #A9D453;
+
 color: black;
 
 }
@@ -207,7 +207,12 @@ font-weight: bold;
 /* html { 
 			background: url(http://www.cryptocoinpromo.com/wp-content/uploads/2014/04/Altcoin-collage.png) no-repeat center center fixed ; 
 
-background: url(https://airbitz.co/media/business_images/bitcoin-blue-background.png) no-repeat center center fixed ; 
+
+
+*/
+
+		html { 
+			background: url(https://airbitz.co/media/business_images/bitcoin-blue-background.png) no-repeat center center fixed ; 
 
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
@@ -215,11 +220,6 @@ background: url(https://airbitz.co/media/business_images/bitcoin-blue-background
 			background-size: cover;
 
 background-color:rgba(255,0,0,0.1);
-
-*/
-
-		html { 
-			
 
 background-color:black;
 
@@ -236,7 +236,11 @@ background-color:black;
 div.transbox
 
 {
-  width: 100%;
+
+position: relative;
+left: 12.5%;
+  width: 75%;
+height: 75%
   background: rgb(254, 254, 254); /* The Fallback */
    background: rgba(255, 254, 254, 0.7); 
 font-size: 120%;
