@@ -195,7 +195,7 @@ color: black;
 h10 span { 
 font-family: "Times New Roman", Georgia, Serif;
     background-color: white; 
-    font-size: 102%;
+    font-size: 80%;
 font-weight: bold;
 
 }
@@ -205,19 +205,25 @@ font-weight: bold;
 		
 
 /* html { 
-			background: url(http://www.cryptocoinpromo.com/wp-content/uploads/2014/04/Altcoin-collage.png) no-repeat center center fixed ; */
+			background: url(http://www.cryptocoinpromo.com/wp-content/uploads/2014/04/Altcoin-collage.png) no-repeat center center fixed ; 
 
-		html { 
-			background: url(https://airbitz.co/media/business_images/bitcoin-blue-background.png) no-repeat center center fixed ; 
+background: url(https://airbitz.co/media/business_images/bitcoin-blue-background.png) no-repeat center center fixed ; 
 
 			-webkit-background-size: cover;
 			-moz-background-size: cover;
 			-o-background-size: cover;
 			background-size: cover;
 
-
-
 background-color:rgba(255,0,0,0.1);
+
+*/
+
+		html { 
+			
+
+background-color:black;
+
+
 		}
 		
 		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
@@ -257,4 +263,10 @@ a:hover + .box,.box:hover{
     display: block;
     position: relative;
     z-index: 100;
+}
+
+h16
+
+{
+   color:white;
 }
