@@ -2,15 +2,16 @@
 a:link {
     color: black;
 text-decoration: none;
-background-color: white; 
-
+color: white;
+background-color: black; 
 }
 
 /* visited link */
 a:visited {
    color: black;
 text-decoration: none;
-background-color: white; 
+color: white;
+background-color: black; 
 
 }
 
@@ -19,7 +20,8 @@ a:hover {
     
 text-decoration: none;
 /*color: orange;*/
-background-color: white; 
+color: white;
+background-color: black; 
 }
 
 /* selected link */
@@ -152,7 +154,8 @@ h6
 {
 
 
-color: black;
+color: blue;
+font-size: 110%; 
 
 }
 
@@ -161,7 +164,8 @@ h6 span
 { 
 
 background-color: #A9D453;
-color: black;
+color: blue;
+font-size: 110%;
    
 }
 
