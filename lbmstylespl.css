@@ -216,16 +216,11 @@ font-weight: bold;
 */
 
 		html { 
-			background: url(http://pixabay.com/static/uploads/photo/2012/04/26/21/33/clothespins-43231_640.jpg) no-repeat center center fixed ; 
 
-			-webkit-background-size: cover;
-			-moz-background-size: cover;
-			-o-background-size: cover;
-			background-size: cover;
 
-background-color:rgba(255,0,0,0.1);
+background-color:#003641;
 
-background-color:black;
+background-color:#FF3641;
 
 
 		}
@@ -278,3 +273,12 @@ h16
 {
    color:white;
 }
+
+body
+
+{
+
+background-color:#002059;
+background-color:#0C103D;
+}
+
