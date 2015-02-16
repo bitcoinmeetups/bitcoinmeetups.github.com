@@ -7,7 +7,13 @@
 <META HTTP-EQUIV="refresh" 
 CONTENT="0;URL=mailto:bitcoinmeetups-org%40googlegroups.com?subject=Contact&body=%20%20%20Hi%20there%2C%20%20%20%0D%0A%20%20%20%20%20%20%0D%0A%20%20%20How%20can%20we%20help%20you%3F%20%20%20%0D%0A%20%20%20%20%20%20%0D%0A%20%20%20Have%20you%20joined%20the%20Google%20Group%20yet%3F%20%20%20
 ">
+
+< deltab> Freeservices: btw, you could use the length of the array rather than a hardcoded number; that'll clarify the 
+                purpose and mean that you don't have to make changes in two places when you add or remove an image
+
 -->
+<meta http-equiv="refresh" content="10">
+
   <meta content="Bitcoin giveaways, tipping, meetups and freelancing. List of meetups, Skype, LINE and Gems groups everywhere in the world including New York, Tokyo and perhaps your local city. Furthermore collaborative open source projects on Github">
   <meta content="Gems, getgems.org, changetip, tipping, Meetup, counterparty, dogeparty, meetups, Telegram, Telegram app, IM, instant messaging, Bitcoin, freelancing, freelancer, crowdfunding, crowdsourcing, git, open source, fiverr, questions, forms, Video, Voice, Bitcoin, blockchain, maidsafe, bitmessage, skype conference, localbitcoin, meetup.com, localbitcoins.com, global, worldwide skype conferece, local skype group, bitcoinmeetups.org, github" name="keywords" />
 
@@ -65,17 +71,17 @@ background-color: black;
 
 }
 
+
+*/
+
 img
 
 {
 
-margin-left: auto;
-margin-right: auto;
+max-height: 100%;
+max-width: 100%;
 
 }
-*/
-
-
 
 h2
 
@@ -91,8 +97,8 @@ h3
 
 {
 
-font-size:80%;
-font-size:80%;
+font-size:180%;
+font-size:180%;
 color:pink;
 
 
@@ -102,7 +108,7 @@ h4
 
 {
 
-font-size:85%;
+font-size:180%;
 color:green;
 background-color:#E5E5E8;
 
@@ -113,7 +119,7 @@ h5
 
 {
 
-font-size:85%;
+font-size:180%;
 color:red;
 background-color:#E5E5E8;
 
@@ -226,9 +232,17 @@ We can make fruit salad in an abandoned building for you and post an image
 
 <div class="upperright">
 
-<br><br><br>
+<!--
 <img border="0" src="http://pixabay.com/static/uploads/photo/2015/02/06/22/08/microphone-626618_640.jpg" alt="" width="100%" >
+
+-->
+ <img id="RndImg" border="0" src="https://image.jpg" alt="image"  >
+
+
+<script type="text/javascript" src="RandomImagev2.js"></script>
+
 <h3>
+
 Available now 2015-02-14. Only @ Bitcoinmeetups.org and in our thread @ Bitcointalk
 
 </div>
