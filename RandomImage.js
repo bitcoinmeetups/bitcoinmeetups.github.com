@@ -1,3 +1,3 @@
-var RndNr = Math.floor(Math.random() * 3); var ia = ["http://pixabay.com/static/uploads/photo/2014/04/03/10/52/robot-311557_640.png",
-"http://pixabay.com/static/uploads/photo/2013/07/18/10/57/sphere-163623_640.jpg", "http://pixabay.com/static/uploads/photo/2014/11/02/16/05/electronic-devices-514182_640.jpg"]; document.getElementById("RndImg").src =
+var RndNr = Math.floor(Math.random() * 3); var ia = ["Collage/supermarketchiller.svg",
+"Backgroundv3.svg", "Collage/How-Can-An-Octopus-Grow-More-Arms-If-He-Needs-Them-For-Some-Extra-Tricky-Task.svg"]; document.getElementById("RndImg").src =
 ia[RndNr]
