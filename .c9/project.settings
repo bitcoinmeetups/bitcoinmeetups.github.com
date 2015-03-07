@@ -1,34 +1,35 @@
 {
-    "run": {
-        "@path": "/.c9/runners",
-        "configs": {
-            "json()": {},
-            "@inited": "true"
-        }
-    },
-    "share": {
-        "@preview": false,
-        "@app": false,
-        "@useOwnerSettings": false
-    },
     "ace": {
+        "@guessTabSize": "true",
         "@newLineMode": "unix",
         "@tabSize": "4",
-        "@useSoftTabs": "true",
-        "@guessTabSize": "true"
+        "@useSoftTabs": "true"
+    },
+    "build": {
+        "@builder": "auto",
+        "@path": "/.c9/builders",
+        "@saveall": true
     },
     "find.nak": {
         "@searchLimit": 100
     },
     "language": {
-        "@warnLevel": "info",
         "@instanceHighlight": "true",
+        "@semi": "true",
         "@undeclaredVars": "true",
-        "@unusedFunctionArgs": "false"
+        "@unusedFunctionArgs": "false",
+        "@warnLevel": "info"
     },
-    "build": {
-        "@path": "/.c9/builders",
-        "@saveall": true,
-        "@builder": "auto"
+    "run": {
+        "@path": "/.c9/runners",
+        "configs": {
+            "@inited": "true",
+            "json()": {}
+        }
+    },
+    "share": {
+        "@app": false,
+        "@preview": false,
+        "@useOwnerSettings": false
     }
 }
