@@ -2,7 +2,7 @@
 <html>
  <head>
  
- <title>Bitcoinmeetups.org - Bitcoin Services and Beyond</title>
+ <title>Bitcoinmeetups.org - Bitcoin Services, Meetups and more</title>
 <!--
 <META HTTP-EQUIV="refresh" 
 CONTENT="0;URL=mailto:bitcoinmeetups-org%40googlegroups.com?subject=Contact&body=%20%20%20Hi%20there%2C%20%20%20%0D%0A%20%20%20%20%20%20%0D%0A%20%20%20How%20can%20we%20help%20you%3F%20%20%20%0D%0A%20%20%20%20%20%20%0D%0A%20%20%20Have%20you%20joined%20the%20Google%20Group%20yet%3F%20%20%20
@@ -10,137 +10,22 @@ CONTENT="0;URL=mailto:bitcoinmeetups-org%40googlegroups.com?subject=Contact&body
 
 < deltab> Freeservices: btw, you could use the length of the array rather than a hardcoded number; that'll clarify the 
                 purpose and mean that you don't have to make changes in two places when you add or remove an image
-<meta http-equiv="refresh" content="50">
--->
 
+-->
 
   <meta content="Bitcoin giveaways, tipping, meetups and freelancing. List of meetups, Skype, LINE and Gems groups everywhere in the world including New York, Tokyo and perhaps your local city. Furthermore collaborative open source projects on Github">
   <meta content="Gems, getgems.org, changetip, tipping, Meetup, counterparty, dogeparty, meetups, Telegram, Telegram app, IM, instant messaging, Bitcoin, freelancing, freelancer, crowdfunding, crowdsourcing, git, open source, fiverr, questions, forms, Video, Voice, Bitcoin, blockchain, maidsafe, bitmessage, skype conference, localbitcoin, meetup.com, localbitcoins.com, global, worldwide skype conferece, local skype group, bitcoinmeetups.org, github" name="keywords" />
+  <!--
+<meta http-equiv="refresh" content="3; url=https://bitcointalk.org/index.php?topic=1012796">-->
 
-<style type="text/css">
-
-/*
-body
-
-{
-
-background-color:#E5E5E8;
-
-}
-*/
-
-
-
-img
-
-{
-
-  max-width: 100%;
-max-height: 100%;
-
-}
-
-
-div.left
-
-{
-
-position: absolute;
-left: 0%;
-width: 50%;
-height:450px;
-overflow: none;
-background-color:#000000;
-
-}
-
-div.upperright
-
-{
-  vertical-align: middle;
-text-align: center;
-position: absolute;
-left: 50%;
-width: 50%;
-top: 0%;
-height:450px;
-background-color: black;
-overflow: none;
-
-}
-
-
-
-
-
-/*
-div.lowerright
-
-{
-
-position: absolute;
-left: 50%;
-width: 50%;
-top: 50%;
-height:50%;
-background-color: black;
-
-
-
-}
-
-
-*/
-
-
-
-h2
-
-{
-
-font-size:200%;
-color:white;
-
-
-}
-
-h3
-
-{
-
-font-size:180%;
-font-size:180%;
-color:pink;
-
-
-}
-
-h4
-
-{
-
-font-size:180%;
-color:green;
-background-color:#E5E5E8;
-
-}
-
-h5
-
-{
-
-font-size:180%;
-color:red;
-background-color:#E5E5E8;
-
-
-}
-
-.visibleDiv, #topLeft
+  <style type="text/css">
+ 
+body { font-family: Ubuntu, sans-serif; }
+  
+  
+  .visibleDiv, #topLeft
   {
-      position: absolute;
-      height: 800px;
-      top:90%;
+      position: fixed;
       width: 100%;
       border: solid 1px #e1e1e1;
       vertical-align: middle;
@@ -150,68 +35,127 @@ background-color:#E5E5E8;
   
   #topLeft
   {
-  bottom: 0px;
-  left: 0px;
-  color: #CFF;
+	top: 0px;
+	left: 0px;
+	color: #CFF;
   }
+  
 
-  a:link,a:hover {font-size:180%; font-weight: bold; background-color:#E5E5E8; color:black; text-decoration:none;}
-a:visited,a:active {font-size:180%; font-weight: bold; background-color:#E5E5E8; color:black; text-decoration:none;}
+  
+  
 
-  a#red:link,a#red:hover {font-size:180%; font-weight: bold; background-color:#E5E5E8; color:black; text-decoration:none;}
-a#red:visited,a#red:active {font-size:180%; font-weight: bold; background-color:#E5E5E8; color:black; text-decoration:none;}
+  a.ex1:link,a.ex1:active {color:white; text-decoration:none;}
+a.ex1:visited,a.ex1:active {color:white;}
 
+#exampleclass tbody,
+#exampleclass thead, 
+#exampleclass th { 
+  border: 0; 
+} 
 
+  #apDiv1 {
+      position:relative;
+      left:0%;
+      top:50px;
+      width:100%;
+      height:90%;
+	  background-color:#CFC
+      z-index:1;
+       border-width:0px;   position:relative; 
+       border-style:groove;
+      
+  }
+  
 
+  #apDiv2 {
+	position:relative;
+	left:0%;
+	width:100%;
+	height:100%;
+	background-color:#000;
+	z-index:1;
+	border-width:2px;
+	position:relative;
+	border-style:groove;
+	      
+  }
+  
+  table 
+  
+  {
+      
+      border-collapse: collapse; 
+      border-style:solid; 
+      border-width: 3px; 
+      border-color:#666666; 
+      margin: 0 auto;
+      
+      }
+  
+  .rounded-corners {
+     -moz-border-radius: 20px;
+    -webkit-border-radius: 20px;
+    -khtml-border-radius: 20px;
+    border-radius: 20px;
+}
+  thead
+  
+  {
+  text-align: center;	
+  background-color:#000;
+  color:#fff;
+  font-weight:bold;
+  font-size:small;
+  }
+  
+  tr.even_row:nth-child(even) {background: #dddddd}
+  
+  td.number
+  
+  {}
+  
+  td
+  
+  {padding: 3px;
+  border: 0; 
+  border-style:solid;
+  border-color:#FFFFF; 
+  width:100px;
+  border-width:0px; 
+  text-align: left;
+  
+  }
+  #apDiv2 p {
+	color: #FFF;
+}
+  </style>
+  </head>
+  
+  <body>
+  
+  <div id="topLeft"><div align="center">
+  <p><a class="ex1" href="#index"> <strong>Index</strong></a><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-</style>
-
-
- </head>
- <body>
-
-
-<div class="left">
-
- <img id="RndImg" border="0" src="https://image.jpg" alt=""  >
-
-
-<script type="text/javascript" src="random-image-v3.js"></script>
-
-</div>
-
-<div class="upperright">
-
+  	<a class="ex1" href="https://bitcointalk.org/index.php?topic=1012796">Main thread on Bitcointalk</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!--
-<img border="0" src="http://pixabay.com/static/uploads/photo/2015/02/06/22/08/microphone-626618_640.jpg" alt="" width="100%" >
+  	<a class="ex1" href="https://github.com/Entrances/Contract-Wiki-Repo/wiki/Instructions">Instructions</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  	<a class="ex1" href="https://github.com/Entrances/Contract-Wiki-Repo/wiki/Instructions#work-for-us">Work for Us</a>&nbsp;&nbsp;&nbsp;&nbsp;
+
+  	<a class="ex1" href="https://github.com/Entrances/Contract-Wiki-Repo/wiki/Instructions#resources">Resources</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  	<a class="ex1" href="https://ripple.com/forum/viewtopic.php?f=1&amp;t=1809&amp;p=3080#p3080">Forum</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  	<a class="ex1" href="https://github.com/Entrances/entrances.github.com/issues">Issues</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+
+  	<a class="ex1" href="mailto:techdata@tormail.org">Contact</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+  </strong><a class="ex1" href="#top"><strong>Top</strong></a></p>
 
 -->
-
- <img id="RndImg2" border="0" src="" alt=""  >
-
-<script type="text/javascript" src="random-image-v3.js">
-
-</script>
-
-
-
-
-</div>
-
- 
-
-
-<div id="topLeft">
-  <p><a class="ex1" href="#index"> <strong>Bitcoinmeetups.org</strong></a><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-    <a class="ex1" href="https://bitcointalk.org/index.php?topic=1012796">[Your bitcoin related ad here]</a><iframe width="100%" height="80" scrolling="no" frameborder="no" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/115955868&amp;auto_play=true&amp;shuffle=true&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;visual=true"></iframe>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-
-
-
-  <h3>Welcome to bitcoinmeetups.org</h3>
- 
-  <p>
+  <h5>Welcome to bitcoinmeetups.org</h5>
+  </div></div>
+  <p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
   Main thread on Bitcointalk where I offer to do fun and family friendly stuff like putting a little hat on a little cat. Click on the image to get there and please leave a comment.<br><br>
 
 <a href="https://bitcointalk.org/index.php?topic=1012796" target="_blank">
@@ -389,18 +333,10 @@ Other links and resources, <a name="index">in alphabetical order but lots of uns
 <p><a href="http://bitcoinmeetups.org/youtube.html" target="_blank">http://bitcoinmeetups.org/youtube.html</a></p>
 
 <script src="https://gateway.gear.mycelium.com/gear-widget-host.js"></script>
-<iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/90452c79bf944eac5c33d443c8916055f361eae8e3a0a3934200f28377614fe1" style="border: none; display: inline-block; height: 400px; min-width: 250px; max-width: 350px;"></iframe>
+<iframe id="gear-widget" scrolling="no" src="https://gateway.gear.mycelium.com/widgets/90452c79bf944eac5c33d443c8916055f361eae8e3a0a3934200f28377614fe1" style="border: none; display: inline-block; height: 130px; min-width: 250px; max-width: 350px;"></iframe>
 
 <br><br><br><br><br><br><br><br><br>
-
-
-</div>
-
-
-
-</body>
-
-
-
-</html>
-
+  
+<p>&nbsp;</p>
+  </body>
+  </html>
