@@ -1,6 +1,6 @@
 setInterval(function(){  
 
-var RndNr = Math.floor(Math.random() * 3); var ia = [
+var RndNr = Math.floor(Math.random() * 4); var ia = [
 
 
 "https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png",
@@ -16,7 +16,7 @@ ia[RndNr];
 
 setInterval(function(){  
 
-var RndNr = Math.floor(Math.random() * 3); var ia = [
+var RndNr = Math.floor(Math.random() * 4); var ia = [
 
 "https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png",
 "https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png", 
