@@ -3,7 +3,7 @@ setInterval(function(){
 var RndNr = Math.floor(Math.random() * 10); var ia = [
 
 
-"https://pbs.twimg.com/media/CHb6Z2eXAAEvQxC.jpg:large",
+"https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png",
 "https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png", 
 "https://pbs.twimg.com/media/CHyU_GIWoAE2ubN.png",
 "https://pbs.twimg.com/media/CHyGQw8WUAAkL2D.jpg",
@@ -25,7 +25,7 @@ setInterval(function(){
 
 var RndNr = Math.floor(Math.random() * 10); var ia = [
 
-"https://pbs.twimg.com/media/CHb6Z2eXAAEvQxC.jpg:large",
+"https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png",
 "https://pbs.twimg.com/media/CGpyf3AUkAEBdW6.png", 
 "https://pbs.twimg.com/media/CHyU_GIWoAE2ubN.png",
 "https://pbs.twimg.com/media/CHyGQw8WUAAkL2D.jpg",
