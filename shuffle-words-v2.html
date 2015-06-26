@@ -1,0 +1,80 @@
+<meta http-equiv="refresh" content="30; url=shuffle-words-v2.html">
+
+
+<head>
+    <style type="text/css">
+    
+    h5
+    {font-size: 300%;
+     color: white;
+    }
+
+    body
+    {background-color: black}
+</style>
+</head>
+
+<body>
+    .
+    <h5><p><p><p><p>
+<div id="planets">
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span><br>
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span>&nbsp;&nbsp;&nbsp;&nbsp;
+        <span>World</span><br>
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span><br>
+    </div>
+
+
+
+    <script>
+    window.onload = randomWorld
+var spans = document.getElementById('planets').getElementsByTagName('span');
+for(var i = 0; i < spans.length; i++) {
+    spans[i].innerHTML = randomWorld();
+}
+
+function randomWorld() {
+    var worlds = [
+    
+    "PLUTO", 
+    "JULIA", 
+    "NUBITS", 
+    "GEORGE COSTANZA", 
+    "GANYMEDE", 
+    "APPLE", 
+    "FAUCET", 
+    "BITCOIN", 
+    "TENNIS BALL", 
+    "COLLAGE", 
+    "SHAPESHIFT", 
+    "DISNEY", 
+    "HUA HIN", 
+    "PRANBURI", 
+    "DROPBOX", 
+    "YOUTUBE", 
+    "SHAPESHIFT", 
+    "DISNEY", 
+    "LAB", 
+    "JUKEBOX", 
+    "MARS", 
+    "NEW YORK",
+    "MANGO", 
+    "LEGS", 
+    "SHOP", 
+    "JUKEBOX", 
+    "LINUX", 
+    "HOUSE",
+    "BANGKOK"
+
+    ];
+    var whichWorld = Math.floor(Math.random() * worlds.length);
+    return worlds[whichWorld];
+}
+
+    </script>
+   
