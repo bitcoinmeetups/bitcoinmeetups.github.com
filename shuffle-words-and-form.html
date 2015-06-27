@@ -1,0 +1,99 @@
+<meta http-equiv="refresh" content="60; url=shuffle-words-v2.html">
+<meta title="Shuffle Words">
+
+<head>
+    <style type="text/css">
+    
+    h5
+    {font-size: 300%;
+     color: white;
+    }
+
+    body
+    {background-color: black}
+</style>
+</head>
+
+<body>
+<div align="center">    .
+    <h5><p><p><p><p>
+<div id="planets">
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span><br>
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span>&nbsp;&nbsp;&nbsp;&nbsp;
+        <span>World</span><br>
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span>&nbsp;&nbsp;&nbsp;
+        <span>World</span><br>
+    </div>
+
+
+
+    <script>
+    window.onload = randomWorld
+setInterval(function(randomWorld, 5000);
+
+    setInterval(function(){ randomWorld() }, 1000);
+
+var spans = document.getElementById('planets').getElementsByTagName('span');
+for(var i = 0; i < spans.length; i++) {
+    spans[i].innerHTML = randomWorld();
+}
+
+
+
+function randomWorld() {
+    var worlds = [
+    
+    "PLUTO", 
+    "JULIA", 
+    "NUBITS", 
+    "GEORGE COSTANZA", 
+    "GANYMEDE", 
+    "APPLE", 
+    "FAUCET", 
+    "BITCOIN", 
+    "TENNIS BALL", 
+    "COLLAGE", 
+    "SHAPESHIFT", 
+    "DISNEY",  
+    "DROPBOX", 
+    "YOUTUBE", 
+    "SHAPESHIFT", 
+    "DISNEY", 
+    "LAB", 
+    "JUKEBOX", 
+    "MARS", 
+    "NEW YORK",
+    "MANGO", 
+    "LEGS", 
+    "SHOP", 
+    "JUKEBOX", 
+    "LINUX", 
+    "HOUSE",
+    "BALLOON CASTLE",
+    "BEACH", 
+    "FOREST", 
+    "FLOWER", 
+    "LINE", 
+    "PENGUIN", 
+    "TOKYO",
+    "SHANGHAI", 
+    "BEIJING",
+    "SAN FRANCISCO",
+    "SINGAPORE"
+
+    ];
+    var whichWorld = Math.floor(Math.random() * worlds.length);
+    return worlds[whichWorld];
+}
+
+setInterval(function(randomWorld, 5000);
+
+
+    setInterval(function(){ randomWorld() }, 1000);
+
+    </script>
+   
