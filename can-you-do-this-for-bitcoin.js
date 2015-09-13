@@ -19,7 +19,7 @@ var RndNr = Math.floor(Math.random() * 10); var ia = [
 document.getElementById("RndImg").src =
 ia[RndNr];
 
-}, 2000);
+}, 3000);
 
 setInterval(function(){  
 
@@ -39,4 +39,4 @@ var RndNr = Math.floor(Math.random() * 10); var ia = [
 ]; document.getElementById("RndImg2").src =
 ia[RndNr];
 
-}, 20000);
+}, 40000);
