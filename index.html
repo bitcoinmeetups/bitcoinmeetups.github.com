@@ -68,7 +68,7 @@ white-space: pre-line;
 h7
 
 {
-  color: red;
+  color: #abcdef;
 
 font-size:230%;
 
@@ -146,8 +146,31 @@ max-height: 300px;
 } 
 */
 
-  a.ex1:link,a.ex1:active {color:white; text-decoration:none;}
-a.ex1:visited,a.ex1:active {color:white;}
+link styles
+a {text-decoration: none; }
+  a.ex1:link
+
+  {
+    text-decoration: none;
+    color:#abcdef; 
+    }
+
+  a.ex1:active {
+    text-decoration: none;
+    color:#abcdef; 
+    text-decoration: none;}
+
+a.ex1:visited
+
+{
+  text-decoration: none;
+  color:#abcdef; 
+  text-decoration: none;}
+
+a.ex:hover 
+{
+    color:orange; 
+    text-decoration:none;}
 
 #exampleclass tbody,
 #exampleclass thead, 
@@ -236,7 +259,7 @@ h5{font-size: 125%;
   </style></head><body>
   
   <div id="topLeft">
-  <p><a target="_blank" class="ex1" href="http://www.bitcoinmeetups.org/index20151025.html"> <h2><strong>Index</strong></a><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <p><a target="_blank" class="ex1" href="http://www.bitcoinmeetups.org/index20151025.html"> <h2><strong>bitcoinmeetups.org</strong></a><strong>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 <!--
     <a class="ex1" href="https://github.com/Entrances/Contract-Wiki-Repo/wiki/Instructions">Instructions</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -286,5 +309,5 @@ test
 <strong>
 </strong>
 <br><br><br><div align="center"><h1>
-<a target="_blank" href="http://www.apple.com">Apple</a> &nbsp;or&nbsp;<a target="_blank" href="http://www.orange.com">Orange</a>?
+<a class="ex1" target="_blank" href="http://www.apple.com">Apple</a> &nbsp;or&nbsp;<a class="ex1" target="_blank" href="http://www.orange.com">Orange</a>?
 </body></html>
