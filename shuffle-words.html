@@ -1,13 +1,16 @@
 <script type="text/javascript" src="shuffle-words.js"></script>
-<body>
-<div id="planets">
-        <p><span>World</span></p>
-        <p><span>World</span></p>
+<body><br><br><br><br><br><br><br><br>
+
+
+<div id="planets" align="center">
+
+    Paste your control word where you have been advised to do so, to confirm your submission. The word is:
+        <h2>
         <p><span>World</span></p>
     </div>
 </body>
 
-<!-->
+
     <script>
     window.onload = randomWorld
 var spans = document.getElementById('planets').getElementsByTagName('span');
@@ -16,7 +19,7 @@ for(var i = 0; i < spans.length; i++) {
 }
 
 function randomWorld() {
-    var worlds = ["Pluto!", "Mars!", "Saturn!", "Earth!", "Mercury!"];
+    var worlds = ["Pluto", "Mars", "Saturn", "Earth", "Mercury"];
     var whichWorld = Math.floor(Math.random() * worlds.length);
     return worlds[whichWorld];
 }
