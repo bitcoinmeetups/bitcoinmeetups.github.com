@@ -1,38 +1,38 @@
-$Buffalo_19928 10
-andesite 10
-caramelisedbanknote 10
-culuuton 20
-CyberKuro 70
-doanlang 10
-dongchi 20
-Dr.Osh 60 
-ezak 110
-error08 50
-Farma 10
-fernswift 10
-flagpara 20
-gandalfar 20
-giacatluong 10
-GrandeMar 190
-grandpix 10
-hanlap 10
-Hanguyen 20
-hawkins 60
-honglien 50
-hungsanh2512 10
-iCeSaIaH 60 
-iv4n 50
-kokliko 10
-minhkhoa 10
-mkr 10
-Mr. Grin 20
-oureps 10
-OrangeII 30
-petermike 20
-ngocbkcse 10
-ngocdhbk2 10
-tinatinh 10
-thuthanh 10
-Quochung 10
-unclehello 10
-wikenpp 10
+$Buffalo_19928 10 HP
+andesite 10 HP
+caramelisedbanknote 10 HP
+culuuton 20 HP
+CyberKuro 70 HP
+doanlang 10 HP
+dongchi 20 HP
+Dr.Osh 60  HP
+ezak 110 HP
+error08 50 HP
+Farma 10 HP
+fernswift 10 HP
+flagpara 20  HP + 1 Virtual Goat
+gandalfar 20 HP
+giacatluong 10 HP
+GrandeMar 190 HP
+grandpix 10 HP
+hanlap 10 HP
+Hanguyen 20 HP
+hawkins 60 HP
+honglien 50 HP
+hungsanh2512 10 HP
+iCeSaIaH 60  HP
+iv4n 50 HP
+kokliko 10 HP
+minhkhoa 10 HP
+mkr 10 HP
+Mr. Grin 20 HP
+oureps 10 HP
+OrangeII 30 HP
+petermike 20 HP
+ngocbkcse 10 HP
+ngocdhbk2 10 HP
+tinatinh 10 HP
+thuthanh 10 HP
+Quochung 10 HP
+unclehello 10 HP
+wikenpp 10 HP
