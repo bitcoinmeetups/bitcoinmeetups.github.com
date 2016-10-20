@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+ <rss version="2.0">
+ <channel>
+ <title>My custom feed</title>
+ <link>http://entrances.github.com/link>
+ <description>Entrances Custom Feed</description>
+ 
+ <item>
+ <title>This is the title</title>
+ <link>http://entrances.github.com</link>
+ <description>This is the description</description>
+ <guid>http://entrances.github.com</guid>
+ </item>
+ 
+ </channel>
+ </rss> 
+ 

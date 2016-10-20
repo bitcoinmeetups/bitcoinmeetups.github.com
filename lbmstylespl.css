@@ -1,0 +1,284 @@
+/* unvisited link */
+a:link {
+    color: black;
+text-decoration: none;
+color: white;
+background-color: black; 
+}
+
+/* visited link */
+a:visited {
+   color: black;
+text-decoration: none;
+color: white;
+background-color: black; 
+
+}
+
+/* mouse over link */
+a:hover {
+    
+text-decoration: none;
+/*color: orange;*/
+color: white;
+background-color: black; 
+}
+
+/* selected link */
+a:active {
+   
+text-decoration: none;
+color: orange;
+background-color: white; 
+}
+
+u:visited {
+color: orange;
+text-decoration: none;
+
+}
+
+u:link {
+color: black;
+text-decoration: none;
+color: orange;
+
+}
+
+* { margin: 0; padding: 0; }
+		
+		html { background-color:#eee;
+font-size:115%;
+			
+		}
+		
+		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+
+	#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+	
+
+div.transbox
+
+{
+  width: 100%;
+
+
+  background: rgb(0, 0, 254); /* The Fallback */
+   background: rgba(0, 0, 254, 0.7); 
+font-size: 120%;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p
+
+{
+  margin: 30px 40px;
+  font-weight: bold;
+font: rgb(0, 54, 54); /* The Fallback */
+
+font-size: 100%;
+  color: #000000;
+}
+
+
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+
+}
+
+ #menu {
+ position: fixed;
+    right: 0;
+    top: 50%;
+    width: 8em;
+    margin: -2.5em 0 0 0;
+    z-index: 5;
+    background: hsla(80, 90%, 40%, 0.7);
+    color: white;
+    font-weight: bold;
+   
+    font-size: large;
+    text-align: left;
+    border: solid hsla(80, 90%, 40%, 0.5);
+    border-right: none;
+    padding: 0.5em 0.5em 0.5em 2.5em;
+    box-shadow: 0 1px 3px black;
+    border-radius: 3em 0.5em 0.5em 3em;
+
+}
+
+#menu li { margin: 0 
+
+}
+  #menu a {  }
+
+  /* Make menu absolute, not fixed, on IE 5 & 6 */
+  #menu { position: absolute }
+  *>#menu { position: fixed }
+
+h8
+
+{
+
+font-color: red;
+
+}
+
+h5
+
+
+{
+
+/*background-color: #C1E8FB;*/
+background-color: #F2F1F0;
+color: black;
+
+}
+
+h5 span { 
+    background-color: #F2F1F0; 
+font-weight: black;
+}
+
+h6
+
+{
+
+
+color: blue;
+font-size: 110%; 
+
+}
+
+h6 span 
+
+{ 
+
+background-color: #A9D453;
+color: blue;
+font-size: 110%;
+   
+}
+
+h7
+
+{
+
+
+color: white;
+
+}
+
+h9
+
+{
+
+background-color: #A9D453;
+color: black;
+
+}
+
+h9 span 
+
+{ 
+
+background-color: #A9D453;
+color: black;
+   
+}
+
+h10 span { 
+font-family: "Times New Roman", Georgia, Serif;
+    background-color: white; 
+    font-size: 80%;
+font-weight: bold;
+
+}
+
+
+* { margin: 0; padding: 0; }
+		
+
+/* html { 
+			background: url(http://www.cryptocoinpromo.com/wp-content/uploads/2014/04/Altcoin-collage.png) no-repeat center center fixed ; 
+
+
+
+*/
+
+		html { 
+
+
+background-color:#003641;
+
+background-color:#FF3641;
+
+
+		}
+		
+		#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+
+	#page-wrap { width: 400px; margin: 50px auto; padding: 20px; background: white; -moz-box-shadow: 0 0 20px black; -webkit-box-shadow: 0 0 20px black; box-shadow: 0 0 20px black; }
+		p { font: 15px/2 Georgia, Serif; margin: 0 0 30px 0; text-indent: 40px; }
+	
+
+div.transbox
+
+{
+
+position: relative;
+left: 12.5%;
+  width: 75%;
+height: 75%
+  background: rgb(254, 254, 254); /* The Fallback */
+   background: rgba(255, 254, 254, 0.7); 
+font-size: 120%;
+  filter:alpha(opacity=60); /* For IE8 and earlier */
+}
+
+div.transbox p
+
+{
+  margin: 30px 40px;
+  font-weight: bold;
+font: rgb(0, 54, 54); /* The Fallback */
+
+font-size: 100%;
+  color: #000000;
+}
+
+.box{
+    display: none;
+    width: 100%;
+}
+
+a:hover + .box,.box:hover{
+    display: block;
+    position: relative;
+    z-index: 100;
+}
+
+h16
+
+{
+   color:white;
+}
+
+body
+
+{
+
+background-color:#002059;
+background-color:#0C103D;
+}
+

@@ -1,0 +1,21 @@
+When you edit this data, please use the same format as below. 
+
+1. Use colon : between the field descriptor and the item 
+2. Use semicolon ; between each field. 
+3. End each row with a double semicolon ;;
+
+Fundraising Project Name: Doge4water ; URL: http://doge4water.org/ ;;
+Fundraising Project Name: Make Your Own Cryptocurrency ; URL: http://entrances.github.com/ProjectBouncingBalls.html;;
+Fundraising Project Name: Animated Horse Jumping On Bitcoin Clouds ; URL: http://entrances.github.io/ProjectAnimatedHorseJumpingOnBitcoinClouds.html ;;
+Fundraising Project Name: Bitbrowser ; URL: http://entrances.github.io/ProjectBitbrowser.html ;;
+Fundraising Project Name: Bitcoin Illustrations ; URL: http://entrances.github.io/ProjectBitcoinIllustrations.html ;;
+Fundraising Project Name: Bitcoin Merchandise ; URL: http://entrances.github.io/ProjectBitcoinMerchandise.html ;;
+Fundraising Project Name: Bitcoin Real Estate ; URL: http://entrances.github.io/ProjectBitcoinRealEstate.html ;;
+Fundraising Project Name: Bitmessage Chans ; URL: http://entrances.github.io/ProjectBitmessageChans.html ;;
+Fundraising Project Name: Bitcoin Bouncing Balls ; URL: http://entrances.github.io/ProjectBouncingBalls.html ;;
+Fundraising Project Name: Countdown Bitcoin ; URL: http://entrances.github.io/ProjectCountdownBitcoin.html ;;
+Fundraising Project Name: Free Food Project ; URL: http://entrances.github.io/ProjectFreeFood.html ;;
+Fundraising Project Name: Fundraising For Dorian Nakamoto ; URL: http://www.reddit.com/r/Bitcoin/comments/1ztjmg/andreas_im_fundraising_for_dorian_nakamoto/ ;;
+Fundraising Project Name: Local Bitcoin Meetups ; URL: http://bitcoinmeetups.org ;;
+Fundraising Project Name: Make Your Own Cryptocurrency ; URL: http://entrances.github.io/ProjectPeopleLookingForBitcoinJobs.html ;;;;;;;;;;;;;;;;;;;;;;;
+

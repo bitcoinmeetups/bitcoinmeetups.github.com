@@ -1,0 +1,76 @@
+
+<head>
+    
+    <style type="text/css">
+    
+    h5
+    {
+        font-size: 300%;
+        color: white;
+    }
+
+
+    h6
+    {
+
+        
+        color: red;
+    }
+
+    body
+    {background-color: black}
+
+     span
+    {
+
+      
+        color: red;
+    }
+</style>
+</head>
+
+<body>
+    <h5>
+<div id="planets" align="center">
+    <br><br><br><br>Choose one:<br>
+
+        <a href="https://bitcointalk.org/index.php?action=post;topic=1212011"><span>World</span>&nbsp;&nbsp;&nbsp;OR&nbsp;&nbsp;
+        <span style="color:blue"><h6>World</h6></span></a>
+      
+    </div>
+
+
+
+
+    <script>
+    window.onload = randomWorld
+var spans = document.getElementById('planets').getElementsByTagName('span');
+for(var i = 0; i < spans.length; i++) {
+    spans[i].innerHTML = randomWorld();
+}
+
+function randomWorld() {
+    var worlds = [
+"PLUTO", 
+    "JULIA", 
+    "NUBITS", 
+    "GEORGE COSTANZA", 
+"GANYMEDE", 
+    "APPLE", 
+    "FAUCET", 
+    "BITCOIN", 
+"TENNIS BALL", 
+    "COLLAGE", 
+    "SHAPESHIFT", 
+    "DISNEY", 
+    "DROPBOX", 
+    "YOUTUBE", 
+    "BUBBLE"
+
+    ];
+    var whichWorld = Math.floor(Math.random() * worlds.length);
+    return worlds[whichWorld];
+}
+
+    </script>
+   

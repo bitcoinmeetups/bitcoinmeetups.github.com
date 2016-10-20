@@ -1,0 +1,28 @@
+List of participants
+
+How to participate: the first ten people to add their nick and bitmessage address below will be rewarded with 0.0001 Bitcoin
+
+Format
+
+NICK
+BITMESSAGE ADDRESS
+BITCOIN ADDRESS
+
+E. g. 
+
+Pluto
+BM-2cUkGGcxWccEE6oN2ZDLmvJNunEejVqCyJ
+1FrnouCZ8rKha4k3L6KJTsD7jDyh2Ywf6x test
+
+Bern
+BM-54j6n45kj6n Etc
+k34j6nk4j67n6j7k657jn657kj65n7jkn
+
+Ok, those two above are only examples. Now add your details below please. You need to fork and submit a pull request for this repo in order to add something.
+
+-----
+
+NICK 
+BITMESSAGE ADDRESS
+BITCOIN ADDRESS
+

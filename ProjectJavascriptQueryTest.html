@@ -1,0 +1,35 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Javascript Query Test</title>
+</head>
+
+<body>
+<script type="text/javascript">
+
+function buildUrl(url, parameters){
+  var qs = "";
+  for(var key in parameters) {
+    var value = parameters[key];
+    qs += encodeURIComponent(key) + "=" + encodeURIComponent(value) + "&";
+  }
+  if (qs.length > 0){
+    qs = qs.substring(0, qs.length-1); //chop off last "&"
+    url = url + "?" + qs;
+  }
+  return url;
+}
+
+//example:
+var url = "http://www.site.com/";
+var parameters = new Array();
+parameters["name"] = "George Washington";
+parameters["dob"] = "17320222";
+alert(buildUrl(url, parameters));
+//displays: http://www.site.com/?name=George%20Washington&dob=17320222
+
+</script>
+
+</body>
+</html>

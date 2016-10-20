@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>NameReg</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+    <style>
+body {
+	font-family: Gentium, Georgia, serif
+}
+h1, h2 {
+	font-family: Trebuchet MS, sans
+}
+h1 { 
+	font-size: 16pt
+}
+h2 { 
+	font-size: 13pt
+}
+div {
+	margin-left: 8pt;
+}
+img {
+	margin: 4pt;
+	padding: 6pt;
+}
+    </style>
+  </head>
+  <body>
+  	<script>
+  	var x = 42;
+//TODO: this should just be:
+// import("Config");
+// import("NameReg");
+var Config = web3.eth.contractFromAbi([{"constant":true,"inputs":[{"name":"service","type":"uint256"}],"name":"lookup","outputs":[{"name":"a","type":"address"}],"type":"function"},{"constant":false,"inputs":[],"name":"kill","outputs":[],"type":"function"},{"constant":false,"inputs":[{"name":"id","type":"uint256"}],"name":"unregister","outputs":[],"type":"function"},{"constant":false,"inputs":[{"name":"id","type":"uint256"},{"name":"service","type":"address"}],"name":"register","outputs":[],"type":"function"},{"inputs":[{"indexed":true,"name":"id","type":"uint256"}],"name":"ServiceChanged","type":"event"}]);
+var NameReg = web3.eth.contractFromAbi([{"constant":true,"inputs":[{"name":"_owner","type":"address"}],"name":"getName","outputs":[{"name":"o_name","type":"string32"}],"type":"function"},{"constant":false,"inputs":[{"name":"name","type":"string32"}],"name":"register","outputs":[],"type":"function"},{"constant":true,"inputs":[{"name":"name","type":"string32"}],"name":"addressOf","outputs":[{"name":"addr","type":"address"}],"type":"function"},{"constant":true,"inputs":[{"name":"_name","type":"string32"}],"name":"getAddress","outputs":[{"name":"o_owner","type":"address"}],"type":"function"},{"constant":false,"inputs":[],"name":"unregister","outputs":[],"type":"function"},{"constant":true,"inputs":[{"name":"addr","type":"address"}],"name":"nameOf","outputs":[{"name":"name","type":"string32"}],"type":"function"},{"inputs":[{"indexed":true,"name":"account","type":"address"}],"name":"AddressRegistered","type":"event"},{"inputs":[{"indexed":true,"name":"account","type":"address"}],"name":"AddressDeregistered","type":"event"}]);
+var theNameReg;
+var w;
+
+var regName = function()
+{
+	var name = document.getElementById("regname").value;
+	if (name != "")
+			theNameReg.register(name);
+}
+
+var lookupName = function()
+{
+	var a = theNameReg.addressOf(document.getElementById("name").value);
+	document.getElementById("addr").value = +web3.toDecimal(a) ? a.substring(2) : "";
+}
+
+var lookupAddr = function()
+{
+	document.getElementById("name").value = theNameReg.nameOf("0x" + document.getElementById("addr").value);
+}
+
+theNameReg = NameReg(Config().lookup(1));
+w = web3.eth.watch({'address': theNameReg.address, 'topics': web3.eth.accounts[0]});
+
+w.changed(function(d) { document.getElementById("yourname").innerHTML = theNameReg.nameOf(web3.eth.accounts[0]); });
+  	</script>
+    <h1>NameReg</h1>
+	<h2>Your Name</h2>
+	<div id="yourname"></div>
+    <h2>Lookup</h2>
+    <div>
+      <label for="name">Name: </label>
+      <input id="name" type="text" value="" onkeyup="lookupName()">
+      <label for="addr">Address: </label>
+      <input id="addr" type="text" value="" onkeyup="lookupAddr()">
+    </div>
+    <h2>Register Name</h2>
+    <div>
+      <label for="name">Name: </label>
+      <input id="regname" type="text" value="">
+      <button onclick="regName()">Register</button>
+      <button onclick="theNameReg.unregister()">Unregister</button>
+    </div>
+    <!--h2>Register Domain</h2>
+    <div>
+      <label for="name">IP/Web domain: </label>
+      <input id="ip" type="text" value="">
+      <label for="name">Ethereum Domain: </label>
+      <input id="domain" type="text" value="">
+      <span>.eth</span>
+      <button onclick="regDomain()">Register</button>
+    </div-->
+
+   <script>
+document.getElementById("yourname").innerHTML = theNameReg.nameOf(web3.eth.accounts[0]);
+    </script>
+    <span id="test"></span>
+  </body>
+</html>
